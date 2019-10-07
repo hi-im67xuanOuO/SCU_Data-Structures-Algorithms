@@ -9,14 +9,12 @@
 * [Week2](#week2)
   * [LinkedList](#LinkedList)
 * [Week3](#week3)
-  * [Stack & Queue](#Stack & Queue)
+  * [Stack & Queue](#Stack_&_Queue)
 * [Week4](#Week4)
   * [Set](#Set)
-  * [Insertion Sort](#Insertion Sort)
+  * [Insertion Sort](#Insertion_Sort)
 * [Week5](#Week5)
-  * [LinkedList](#LinkedList)
 * [Week6](#Week6)
-  * [LinkedList](#LinkedList)
 
 * [Contact](#contact)
 
