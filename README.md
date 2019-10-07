@@ -4,13 +4,20 @@
 <!-- TABLE OF CONTENTS -->
 ## Contents
 
-* [Meet with GitHub](#about-the-project)
-  * [Markdown 語法](#built-with)
-* [Week2](#getting-started)
-  * [LinkedList](#prerequisites)
-* [Week3](#usage)
-* [Week4](#roadmap)
-* [Week5](#contributing)
-* [Week6](#license)
+* [Weel1](#meet-with-GitHub)
+  * [Meet with GitHub](#(https://github.com/aaron1aaron2/my-learning-note/blob/master/week1))
+  
+* [Week2](#week2)
+  * [LinkedList](#LinkedList)
+  
+* [Week3](#Week3)
+
+* [Week4](#Week4)
+
+* [Week5](#Week5)
+
+* [Week6](#Week6)
+
 * [Contact](#contact)
+
 * [Acknowledgements](#acknowledgements)
