@@ -5,7 +5,7 @@
 ## Contents
 
 * [Weel1](#meet-with-GitHub)
-  * [Meet with GitHub]: https://github.com/aaron1aaron2/my-learning-note/blob/master/week1
+  * [Meet with GitHub] : https://github.com/aaron1aaron2/my-learning-note/blob/master/week1
 * [Week2](#week2)
   * [LinkedList](#LinkedList)
   
