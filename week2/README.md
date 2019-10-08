@@ -1,20 +1,14 @@
 # week2 - Linked List
 
 ## Contact
-* [影片觀念講解](#影片觀念講解)
 * [簡介Linked-List](#簡介Linked-List)
+* [影片觀念講解](#影片觀念講解)
 * [比較Array與Linked-List](#比較Array與Linked-List)
     * [Array](#Array)
     * [Linked-List](#Linked-List)
 * [實作概念](#實作概念)
 * [Leetcode題目](#Leetcode題目)
 * [Referrence](#Referrence)
-
-
-## 影片觀念講解
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
-" target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
-alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
 
 ## 簡介Linked-List
@@ -58,6 +52,12 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 > 通常在面對一個Linked list時，能夠公開存取(access)的node只有「第一個node」，以`ListNode *first`表示，不過因為node中有pointer記錄下一個node的記憶體位置，便能夠讀取下一個node的data與pointer。
+
+
+## 影片觀念講解
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
+" target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
 
 ## 比較Array與Linked-List
