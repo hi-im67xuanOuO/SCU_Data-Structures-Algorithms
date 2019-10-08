@@ -289,3 +289,46 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 string &operator+(const string& A,const string& B) //cpp
 ```
 
+## 表格
+
+表頭1  | 表頭2|
+--------- | --------|
+表格內容  | 表格內容 |
+表格內容  | 表格內容 |
+
+| 表頭1  | 表頭2|
+| ---------- | -----------|
+| 表格內容   | 表格內容   |
+| 表格內容   | 表格內容   |
+
+### 對齊
+可指定對齊方式
+
+| 左對齊 | 居中  | 右對齊 |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
+### 混合其他語法
+#### 使用普通文本的刪除線、斜體等效果
+
+| 名字 | 描述 |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
+
+#### 表格中嵌入圖片（連結）
+
+| 圖片 | 描述 |
+| ---- | ---- |
+|`![](/img/google_logo.jpg "googel首頁")][google]`|![](/img/google_logo.jpg "google首頁")|
+
+## 表情符號
+
+Github的Markdown語法支持添加emoji表情，輸入不同的符號代碼（兩個冒號包圍的字符）可顯示出不同的表情。
+
+比如`:blush:`，可以顯示:blush:。
+
+具體每一個表情的符号码，可以查詢GitHub的官網[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
+
