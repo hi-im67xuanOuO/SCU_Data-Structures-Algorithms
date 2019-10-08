@@ -47,8 +47,15 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 ## 比較Array與Linked-List
+### Array
+#### 優點
+* **random access**：只要利用index即可在O(1)時間對Array的資料做存取。
+* **較Linked list為節省記憶體空間**：因為Linked list需要多一個pointer來記錄下一個node的記憶體位置。
 
 
+#### 缺點
+
+# Linked List
 
 ## 實作概念
 
