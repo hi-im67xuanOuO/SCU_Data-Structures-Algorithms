@@ -82,10 +82,9 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 # 影片觀念講解
-[![](https://www.youtube.com/watch?time_continue=3&v=WwfhLC16bis](https://www.youtube.com/watch?time_continue=3&v=WwfhLC16bis)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
 " target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
-alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a>
+alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
 ## 實作概念
 * **part1 - class ListNode**：包含了資料及指標兩個屬性的節點
