@@ -19,7 +19,7 @@ README
         *  [連結外部URL](#連結外部URL)
         *  [連結GitHub裡的URL](#連結GitHub裡的URL)
     * [圖片連結](#圖片連結)
-    *  錨點
+    * [錨點](#錨點)
 * [列表](#列表)
     * 無分層列表
     * 有分層列表
@@ -155,4 +155,11 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |---|----|:---:|
 |1|`![](/img/google_logo.jpg "googel首頁")][google]`|![](/img/google_logo.jpg "google首頁")|
 
+### 錨點
+每個標題都是一個錨點，和HTML的`#`類似 
 
+|語法|效果|
+|---|---|
+|`[回到頂部](#readme)`|[回到頂部](#readme)|
+
+不過要注意，標題中的英文字母都被轉化為**小寫字母**了。
