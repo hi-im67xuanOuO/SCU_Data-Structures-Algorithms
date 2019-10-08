@@ -135,7 +135,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 ## 連結Link
 
-### 連結外部URL
+### * 連結外部URL
 
 |#|語法|效果|
 |---|----|-----|
@@ -146,20 +146,20 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 - 第一部分使用兩個中括號，[ ]裡可以是數字、字母等的组合。
 - 第二部分標記實際URL。
 
-### 連結GitHub裡的URL
+### * 連結GitHub裡的URL
 
 |語法|效果|
 |----|-----|
 |`[我的Leetcode紀錄](/Leetcode)`|[我的Leetcode紀錄](/Leetcode)|
 |`[README教學](./README.md)`|[README教學](./README.md)|
 
-### 圖片連結
+### * 圖片連結
 
 |#|語法|效果|
 |---|----|:---:|
 |1|`![](/img/google_logo.jpg "googel首頁")][google]`|![](/img/google_logo.jpg "google首頁")|
 
-### 錨點
+### * 錨點
 每個標題都是一個錨點，和HTML的`#`類似 
 
 |語法|效果|
@@ -170,7 +170,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 
 ## 列表List
-### 無標序列表
+### * 無標序列表
 #### 語法
 ```
 * 姓名：劉謦瑄
@@ -182,7 +182,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 - 英文名字：Liu Ching-hsuan
 * Majior：Big Data Management
 
-### 多級無標序列表
+### * 多級無標序列表
 #### 語法
 ```
 * 巨量資料管理學院
@@ -194,7 +194,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
     * Big Data Management
         * 資料結構與演算法
 
-### 一級有標序列表
+### * 一級有標序列表
 #### 語法
 在數字後面加一個點及一個空格。
 ```
@@ -213,7 +213,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 3. Java
 
 
-### 多層有標序列表
+### * 多層有標序列表
 #### 語法
 ```
 1. 这是一级的有序列表，數字1還是1
@@ -228,7 +228,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
       1. 這是三级的有序列表，數字轉換為英文字母
 	 
 
-### 複選匡列表
+### * 複選匡列表
 #### 語法
 ```
 - [x] 需求分析
@@ -250,12 +250,12 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 ## 引用Referrence
 
-### 常用於引用文本
+### * 常用於引用文本
 > **這是一個引用文本的例子**  
 以下文字是為了呈現GitHub中引用文本時呈現的樣子：  
 “……東吳大學巨量資料管理學院，108-1資料結構與演算法，GitHub實作Readme撰寫，這裡是引用文本的舉例。......”
 
-### 引用有多層結構
+### * 引用有多層結構
 #### 語法
 ```
 > 數據結構
