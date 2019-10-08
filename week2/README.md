@@ -134,7 +134,16 @@ list1.add_list_item(12)
 這樣子就建立一個名為list1的linked-list，裡面包含了帶有資料15以及12的節點。
 
 
+更多相關Linked List程式語法，可以參考* [https://stackabuse.com/python-linked-lists/](https://stackabuse.com/python-linked-lists/)
+
+
 ## Leetcode題目
 
 ## Referrence
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
+
+
+* [https://medium.com/@tobby168/用python實作linked-list-524441133d4d](https://medium.com/@tobby168/用python實作linked-list-524441133d4d)
+
+
+* [https://stackabuse.com/python-linked-lists/](https://stackabuse.com/python-linked-lists/)
