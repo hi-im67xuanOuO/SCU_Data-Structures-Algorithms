@@ -146,8 +146,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |語法|效果|
 |----|-----|
-|`[我的GitHub](/chinghsuan/class_exercises)`|[GitHub](/chinghsuan/class_exercises)|
-|`[README教學](./class_exercises)`|[README教學](./class_exercises)|
+|`[我的GitHub](/class_exercises)`|[GitHub](/class_exercises)|
+|`[README教學](./README.md)`|[README教學](./README.md)|
 
 ### 图片链接
 给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。  
