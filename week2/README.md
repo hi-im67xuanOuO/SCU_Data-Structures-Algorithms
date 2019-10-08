@@ -9,15 +9,15 @@
 ## 簡介Linked-List
 Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)`來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以`NULL`來代表Linked list的終點，見圖一(a)。
 
-:![Linked_List_1](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f1.png "Linked_List_1"):  
-:圖一(a):
+![Linked_List_1](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f1.png "Linked_List_1")  
+                                                             圖一(a)
 
 
 若實際打開每個node的內部，至少會包含__(1)data__來代表資料，與__(2)pointer__指向下一個node，見圖一(b)：
 
 
-:![Linked_List_2](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f2.png "Linked_List_2"):  
-:圖一(b):
+![Linked_List_2](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f2.png "Linked_List_2")  
+                                                             圖一(b)
 
 
 * Node1：
