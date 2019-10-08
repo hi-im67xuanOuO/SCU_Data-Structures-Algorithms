@@ -3,7 +3,7 @@ README
 測試並展示書寫README時的各種markdown語法。此語法稱為`GitHub Flavored Markdown`，簡稱`GFM`。除了README外，issues和wiki均支持markdown語法。
 
 ## 目錄
-* [分隔線](#分隔線)
+* [橫線/分隔線](#橫線/分隔線)
 * [標題Headers](#標題)
 * [文本](#文本)
     * [普通文本](#普通文本)
@@ -32,7 +32,7 @@ README
 
 ------
 
-### 横線/分隔線/
+### 横線/分隔線
 ```
 ***、---、___可以顯示横線效果
 ```
