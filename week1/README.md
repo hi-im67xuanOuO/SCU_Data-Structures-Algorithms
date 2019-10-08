@@ -106,7 +106,7 @@ Alt-H2
 |`~~***斜粗體刪除線2***~~`|~~***斜粗體刪除線2***~~|
 
 
-##圖片
+## 圖片
 ------
 基本格式：
 ```
@@ -129,3 +129,36 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 注意例2的寫法使用了**URL標示符號**的形式，在[連結](#連結)中有介绍。
 
 
+## 連結
+------
+### 連結外部URL
+
+|#|語法|效果|
+|---|----|-----|
+|1|`[GitHub](https://github.com/chinghsuan/class_exercises "游標顯示")`|[GitHub](https://github.com/chinghsuan/class_exercises "游標顯示")|
+|2|`[README教學][https://github.com/chinghsuan/class_exercises/tree/master/week1] `|[README教學][https://github.com/chinghsuan/class_exercises/tree/master/week1] |
+
+語法2由兩部分组成：
+- 第一部分使用兩個中括號，[ ]裡可以是數字、字母等的组合。
+- 第二部分標記實際URL。
+
+### 連結GitHub裡的URL
+
+|語法|效果|
+|----|-----|
+|`[我的GitHub](/chinghsuan/class_exercises)`|[GitHub](/chinghsuan/class_exercises)|
+|`[README教學](./class_exercises)`|[README教學](./class_exercises)|
+
+### 图片链接
+给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。  
+直接混合两种语法当然可以，但是十分啰嗦，为此我们可以使用URL标识符的形式。
+
+|#|语法|效果|
+|---|----|:---:|
+|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
+|3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
+
+因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例3）。  
+注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
+> 本文URL标识符都放置于文末
