@@ -87,7 +87,15 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 * **part2 - class SingleLinkedList**：定義出各種資料結構操作的list本身
 
 ## Leetcode題目
-
+```python
+class ListNode:
+  def __init__(self, data): 
+    # store data
+    self.data = data
+    # store the reference (next item)
+    self.next = None
+    return
+```
 
 ## Referrence
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
