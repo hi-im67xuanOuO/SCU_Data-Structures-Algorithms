@@ -11,5 +11,4 @@
 ## Part 2 自主練習筆記
 
 * [Contact](#contact)
-
-* [Acknowledgements](#acknowledgements)
+   Email: chinghsuan86@gmail.com
