@@ -17,6 +17,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 > 圖一(a)  
+> 圖片來源：[http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
 
 
 若實際打開每個node的內部，至少會包含 __(1)data__ 來代表資料，與 __(2)pointer__ 指向下一個node，見圖一(b)：  
@@ -26,6 +27,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 > 圖一(b)  
+> 圖片來源：[http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
 
 
 * Node1：
