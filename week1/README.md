@@ -146,7 +146,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |語法|效果|
 |----|-----|
-|`[我的GitHub](/class_exercises)`|[GitHub](/class_exercises)|
+|`[Leetcode紀錄](/Leetcode)`|[GitHub](/Leetcode)|
 |`[README教學](./README.md)`|[README教學](./README.md)|
 
 ### 图片链接
