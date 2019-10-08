@@ -135,8 +135,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|語法|效果|
 |---|----|-----|
-|1|`[GitHub](https://github.com/chinghsuan/class_exercises "游標顯示")`|[GitHub](https://github.com/chinghsuan/class_exercises "游標顯示")|
-|2|`[README教學][https://github.com/chinghsuan/class_exercises/tree/master/week1] `|[README教學][https://github.com/chinghsuan/class_exercises/tree/master/week1] |
+|1|`[Leetcode](https://leetcode.com/ "游標顯示")`|[Leetcode](https://leetcode.com/ "游標顯示")|
+|2|`[CodeSignal](https://app.codesignal.com/arcade/intro/level-1) `|[CodeSignal](https://app.codesignal.com/arcade/intro/level-1) |
 
 語法2由兩部分组成：
 - 第一部分使用兩個中括號，[ ]裡可以是數字、字母等的组合。
@@ -146,7 +146,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |語法|效果|
 |----|-----|
-|`[Leetcode紀錄](/Leetcode)`|[GitHub](/Leetcode)|
+|`[我的Leetcode紀錄](/Leetcode)`|[我的Leetcode紀錄](/Leetcode)|
 |`[README教學](./README.md)`|[README教學](./README.md)|
 
 ### 图片链接
