@@ -17,10 +17,10 @@ README
     * GitHub中的圖片
 * [連結Link](#連結Link) 
     * 文字超連結
-        *  [連結外部URL](#連結外部URL)
-        *  [連結GitHub裡的URL](#連結GitHub裡的URL)
-    * [圖片連結](#圖片連結)
-    * [錨點](#錨點)
+        *  [連結外部URL]
+        *  [連結GitHub裡的URL]
+    * [圖片連結]
+    * [錨點]
 * [列表List](#列表List)
     * 無分層列表
     * 有分層列表
