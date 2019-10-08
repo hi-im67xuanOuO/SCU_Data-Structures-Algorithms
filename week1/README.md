@@ -26,7 +26,7 @@ README
     * 帶選框之列表
 * [引用Referrence](#引用Referrence)
 * [程式碼Code](#程式碼Code)
-* [表格Tabe](#表格Tabe) 
+* [表格Table](#表格Table) 
 * [表情符號emoji](#表情符號emoji)
 * [diff語法](#diff語法)
 
