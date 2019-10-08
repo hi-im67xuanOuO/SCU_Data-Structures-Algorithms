@@ -10,7 +10,7 @@
 * [Week6]：
 ## Part 2 自主練習筆記
 
-## Contact me
+## 聯絡方式
 * [Contact](#Contact)
 
 ## Contact
