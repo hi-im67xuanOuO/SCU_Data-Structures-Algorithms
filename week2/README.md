@@ -10,7 +10,8 @@
 
 ## 簡介Linked-List
 Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)`來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以`NULL`來代表Linked list的終點（python中為`None`），見圖一(a)。資料散落在記憶體中各處，加入或是刪除元素只需要改變pointer即可完成，但是在資料的讀取上比較適合循序的使用，無法直接取得特定順序的值（比如說沒辦法直接知道list[3]）。
-
+> single linked list：每個節點只有指向下一個結點，而沒有指出上一個結點。
+> double linked list：有指出上一個節點。
 
 ![Linked_List_1](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f1.png "Linked_List_1")
 
@@ -78,5 +79,8 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 ## 實作概念
+* **part1 - class ListNode**：包含了資料及指標兩個屬性的節點
+
+* **part2 - class SingleLinkedList**：定義出各種資料結構操作的list本身
 
 ## Leetcode題目
