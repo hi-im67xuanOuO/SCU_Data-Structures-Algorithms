@@ -153,7 +153,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|語法|效果|
 |---|----|:---:|
-|1|`[![Facebook-logo]](https://www.facebook.com/)`|[![Facebook-logo]](https://www.facebook.com/)|
-|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
-|3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
+|1|`[![facebook]](https://www.facebook.com/)`|[![facebook]](https://www.facebook.com/)|
+|2|`[![](/img/GitHub_logo.png "GitHub首頁")][GitHub]`|[![](/img/GitHub_logo.png "GitHub首頁")][GitHub]|
+|3|`[![google_logo]][google_logo]`|[![google-logo]][google_logo]|
 
