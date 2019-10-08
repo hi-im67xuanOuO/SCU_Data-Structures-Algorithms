@@ -45,6 +45,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 > 通常在面對一個Linked list時，能夠公開存取(access)的node只有「第一個node」，以`ListNode *first`表示，不過因為node中有pointer記錄下一個node的記憶體位置，便能夠讀取下一個node的data與pointer。
 
+
 ## 比較Array與Linked-List
 
 
