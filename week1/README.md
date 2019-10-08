@@ -267,3 +267,25 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 >>>> 平衡二叉樹
 >>>>> 滿二叉樹
 
+## 程式碼
+
+### 語法
+在三個反引號後面加上編程語言的名字，另起一行開始寫程式碼，最後一行再加上三個反引號。
+
+### 效果
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub" #Bash
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
+```
+
