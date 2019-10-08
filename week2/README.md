@@ -12,10 +12,13 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 ![Linked_List_1](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f1.png "Linked_List_1")  
 圖一(a)
 
+
 若實際打開每個node的內部，至少會包含__(1)data__來代表資料，與__(2)pointer__指向下一個node，見圖一(b)：
+
 
 ![Linked_List_2](https://raw.githubusercontent.com/alrightchiu/SecondRound/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f2.png "Linked_List_2")  
 圖一(b)
+
 
 * Node1：
     * 以int的data，記錄正整數7
@@ -33,6 +36,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
     * 本身的記憶體位置為0x100104310。
     * 由於在Node2中的「node之pointer」指向了Node3之記憶體位置，因此，便能夠經由Node2「找到」Node3
     * 以「node之pointer」，記錄(指向)NULL，表示Linked list的最後一個node
+
 
 通常在面對一個Linked list時，能夠公開存取(access)的node只有「第一個node」，以`ListNode *first`表示，不過因為node中有pointer記錄下一個node的記憶體位置，便能夠讀取下一個node的data與pointer。
 
