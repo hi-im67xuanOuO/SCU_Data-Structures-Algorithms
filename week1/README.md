@@ -3,42 +3,42 @@ README
 測試並展示書寫README時的各種markdown語法。此語法稱為`GitHub Flavored Markdown`，簡稱`GFM`。除了README外，issues和wiki均支持markdown語法。
 
 ## 目錄
-* [分隔線](#分隔線)
-* [標題Headers](#標題)
-* [文本Contents](#文本)
+* [分隔線Line](#分隔線Line)
+* [標題Headers](#標題Headers)
+* [文本Contents](#文本Contents)
     * [普通文本](#普通文本)
     * [單行文本](#單行文本)
     * [文字強調](#文字強調)
     * [換行](#換行)
     * [斜體/粗體/刪除線](#斜體_粗體_刪除線)
-* [圖片Image](#圖片)
+* [圖片Image](#圖片Image)
     * 來源於網路之圖片
     * GitHub中的圖片
-* [連結](#連結) 
+* [連結Link](#連結Link) 
     * 文字超連結
         *  [連結外部URL](#連結外部URL)
         *  [連結GitHub裡的URL](#連結GitHub裡的URL)
     * [圖片連結](#圖片連結)
     * [錨點](#錨點)
-* [列表](#列表)
+* [列表List](#列表List)
     * 無分層列表
     * 有分層列表
     * 帶選框之列表
-* [引用](#引用)
-* [程式碼](#程式碼)
-* [表格](#表格) 
-* [表情符號](#表情符號)
+* [引用Referrence](#引用Referrence)
+* [程式碼Code](#程式碼Code)
+* [表格Tabe](#表格Tabe) 
+* [表情符號emoji](#表情符號emoji)
 * [diff語法](#diff語法)
 
 
-## 分隔線
+## 分隔線Line
 ```
 ***、---、___可以顯示横線效果
 ```
 
 ------
 
-## 標題
+## 標題Header
 ```no-highlight
 # H1
 ## H2
@@ -72,7 +72,7 @@ Alt-H2
 ------
 
 
-## 文本
+## 文本Contents
 ### 普通文本
 這是一段普通的文本。
 ### 單行文本
@@ -106,7 +106,7 @@ Alt-H2
 |`~~***斜粗體刪除線2***~~`|~~***斜粗體刪除線2***~~|
 
 
-## 圖片
+## 圖片Image
 
 基本格式：
 ```
@@ -129,7 +129,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 注意例2的寫法使用了**URL標示符號**的形式，在[連結](#連結)中有介绍。
 
 
-## 連結
+## 連結Link
 
 ### 連結外部URL
 
@@ -165,7 +165,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 不過要注意，標題中的英文字母都被轉化為**小寫字母**了。
 
 
-## 列表
+## 列表List
 ### 無標序列表
 #### 語法
 ```
@@ -244,7 +244,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 > Tip:
 >> 在GitHub的**issue**中使用該語法法是可以即時點擊複選框來勾選或取消勾選的，無需修改issue原文。
 
-## 引用
+## 引用Referrence
 
 ### 常用於引用文本
 > **這是一個引用文本的例子**  
@@ -267,7 +267,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 >>>> 平衡二叉樹
 >>>>> 滿二叉樹
 
-## 程式碼
+## 程式碼Code
 
 ### 語法
 在三個反引號後面加上編程語言的名字，另起一行開始寫程式碼，最後一行再加上三個反引號。
@@ -289,7 +289,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 string &operator+(const string& A,const string& B) //cpp
 ```
 
-## 表格
+## 表格Table
 
 表頭1  | 表頭2|
 --------- | --------|
@@ -324,7 +324,7 @@ string &operator+(const string& A,const string& B) //cpp
 | ---- | ---- |
 |`![](/img/google_logo.jpg "googel首頁")][google]`|![](/img/google_logo.jpg "google首頁")|
 
-## 表情符號
+## 表情符號emoji
 
 Github的Markdown語法支持添加emoji表情，輸入不同的符號代碼（兩個冒號包圍的字符）可顯示出不同的表情。
 
