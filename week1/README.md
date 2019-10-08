@@ -6,19 +6,19 @@
 * [分隔線Line](#分隔線Line)
 * [標題Header](#標題Header)
 * [重點Emphasis](#重點Emphasis)
-    * [斜體/粗體/刪除線]
+    * 斜體/粗體/刪除線
 * [文本Contents](#文本Contents)
-    * [普通文本]
-    * [單行文本]
-    * [文字強調]
-    * [換行]
+    * 普通文本
+    * 單行文本
+    * 文字強調
+    * 換行
 * [圖片Image](#圖片Image)
     * 來源於網路之圖片
     * GitHub中的圖片
 * [連結Link](#連結Link) 
     * 文字超連結
-        *  [連結外部URL]
-        *  [連結GitHub裡的URL]
+        *  連結外部URL
+        *  連結GitHub裡的URL
     * [圖片連結]
     * [錨點]
 * [列表List](#列表List)
