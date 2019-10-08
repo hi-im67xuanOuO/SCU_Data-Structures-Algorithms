@@ -83,10 +83,6 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 ## 實作概念
 * **part1 - class ListNode**：包含了資料及指標兩個屬性的節點
-
-* **part2 - class SingleLinkedList**：定義出各種資料結構操作的list本身
-
-## Leetcode題目
 ```python
 class ListNode:
   def __init__(self, data): 
@@ -96,6 +92,49 @@ class ListNode:
     self.next = None
     return
 ```
+在建立一個節點時，需要傳入一個data的值，並且指標預設是指向None的。
+```python
+node1 = ListNode(15)
+```
+這樣就會建立一個帶有15的資料的節點了。
+
+
+* **part2 - class SingleLinkedList**：定義出各種資料結構操作的list本身
+```python
+class SingleLinkedList:
+  def __init__(self): 
+    self.head = None
+    self.tail = None
+    return
+```
+在建立list的一開始，我們預設裡面是沒有節點的。而linked-list本身帶有head跟tail兩個屬性。當我們加入一個新的節點時：
+1. 若list本身還沒有任何節點，則head以及tail都會變成新的結點
+2. 若list已經包含有其他節點，則新加入的節點變成新的tail（本來的tail指向新的節點）。
+
+```python
+def add_list_item(self, item):
+  # make sure item is a proper node  
+  if not isinstance(item, ListNode):
+    item = ListNode(item)
+    
+  if self.head is None:
+    self.head = item
+  else:
+    self.tail.next = item
+    
+  self.tail = item
+  return
+```
+其中比較需要注意的是，在取得item之後，要檢查item是否是一個結點，若不是的話則使用ListNode(item)建立一個帶有item資料的節點。
+```python
+list1 = SingleLinkedList()
+list1.add_list_item(node1)
+list1.add_list_item(12)
+```
+這樣子就建立一個名為list1的linked-list，裡面包含了帶有資料15以及12的節點。
+
+
+## Leetcode題目
 
 ## Referrence
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
