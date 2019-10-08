@@ -127,7 +127,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|語法|效果|
 |---|---|----
 |1|`![GitHub](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/06/04/105/4827699.jpg "GitHub logo")`|![GitHub](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/06/04/105/4827699.jpg "GitHub logo")
-|2|`![][code-past]`|![GitHub][https://github.blog/wp-content/uploads/2019/05/facebook-1200x630.png?w=1203]
+|2|`![][code-past]`|![GitHub](https://github.blog/wp-content/uploads/2019/05/facebook-1200x630.png?w=1203)
 
 注意例2的寫法使用了**URL標示符號**的形式，在[連結](#連結)中有介绍。
 
