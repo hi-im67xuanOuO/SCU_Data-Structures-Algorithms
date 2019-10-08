@@ -347,3 +347,22 @@ Github的Markdown語法支持添加emoji表情，輸入不同的符號代碼（�
 ! 月出驚山鳥，
 # 時鳴春澗中。
 ```
+
+## Youtube 影片
+
+Youtube 影片無法直接被加入，不過我們可以加入圖片，在圖片上設定連結到影片，像這樣：
+
+```no-highlight
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE影片ID放在這裡
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE影片ID放在這裡/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a>
+```
+
+或是，用單純的 Markdown，不過會無法改變圖片的大小與邊框：
+
+
+```no-highlight
+[![圖片 ALT 文字放在這裡](http://img.youtube.com/vi/YOUTUBE影片ID放在這裡/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE影片ID放在這裡)
+```
+
+可以在 `git commit` 裡面用 #bugID 的方式引用一個 bug，比如說 #1。
