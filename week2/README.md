@@ -62,7 +62,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
     * 要求記憶體空間的使用越少越好。
 
 
-# Linked-List
+### Linked-List
 * 優點
     * **新增/刪除資料較Array簡單**：只要對O(1)個node(所有與欲新增/刪除的node有pointer相連的node)調整pointer即可，不需要如同Array般搬動其餘元素。
     * 若是在Linked list的「開頭」新增node，只要O(1)。
