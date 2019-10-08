@@ -1,4 +1,4 @@
-README
+有關 README 的撰寫語法
 ===========================
 測試並展示書寫README時的各種markdown語法。此語法稱為`GitHub Flavored Markdown`，簡稱`GFM`。除了README外，issues和wiki均支持markdown語法。
 
