@@ -16,10 +16,10 @@ README
     * GitHub中的圖片
 * [連結](#連結) 
     * 文字超連結
-        *  連結外部URL
-        *  連結GitHub裡的URL
-    *  錨點
+        *  [連結外部URL](#連結外部URL)
+        *  [連結GitHub裡的URL](#連結GitHub裡的URL)
     * [圖片連結](#圖片連結)
+    *  錨點
 * [列表](#列表)
     * 無分層列表
     * 有分層列表
@@ -107,7 +107,7 @@ Alt-H2
 
 
 ## 圖片
-------
+
 基本格式：
 ```
 ![alt](URL title)
@@ -130,7 +130,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 
 ## 連結
-------
+
 ### 連結外部URL
 
 |#|語法|效果|
