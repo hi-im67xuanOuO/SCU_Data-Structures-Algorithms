@@ -1,6 +1,7 @@
 # week2 - Linked List
 
 ## Contact
+* [影片觀念講解](#影片觀念講解)
 * [簡介Linked-List](#簡介Linked-List)
 * [比較Array與Linked-List](#比較Array與Linked-List)
     * [Array](#Array)
@@ -8,6 +9,13 @@
 * [實作概念](#實作概念)
 * [Leetcode題目](#Leetcode題目)
 * [Referrence](#Referrence)
+
+
+## 影片觀念講解
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
+" target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
+
 
 ## 簡介Linked-List
 Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)`來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以`NULL`來代表Linked list的終點（python中為`None`），見圖一(a)。資料散落在記憶體中各處，加入或是刪除元素只需要改變pointer即可完成，但是在資料的讀取上比較適合循序的使用，無法直接取得特定順序的值（比如說沒辦法直接知道list[3]）。
@@ -80,11 +88,6 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
     * 需要頻繁地新增/刪除資料時。
     * 不需要快速查詢資料。
 
-
-# 影片觀念講解
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
-" target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
-alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
 ## 實作概念
 * **part1 - class ListNode**：包含了資料及指標兩個屬性的節點
