@@ -10,5 +10,7 @@
 * [Week6]：
 ## Part 2 自主練習筆記
 
-* [Contact](#contact)
-   Email: chinghsuan86@gmail.com
+* [Contact](#Contact)
+
+## Contact
+- Email: chinghsuan86@gmail.com
