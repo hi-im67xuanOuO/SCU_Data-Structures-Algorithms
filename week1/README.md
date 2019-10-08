@@ -149,16 +149,11 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |`[我的Leetcode紀錄](/Leetcode)`|[我的Leetcode紀錄](/Leetcode)|
 |`[README教學](./README.md)`|[README教學](./README.md)|
 
-### 图片链接
-给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。  
-直接混合两种语法当然可以，但是十分啰嗦，为此我们可以使用URL标识符的形式。
+### 圖片連結
 
-|#|语法|效果|
+|#|語法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|1|`[![Facebook-logo]](https://www.facebook.com/)`|[![Facebook-logo]](https://www.facebook.com/)|
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
-因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例3）。  
-注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
-> 本文URL标识符都放置于文末
