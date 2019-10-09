@@ -150,8 +150,8 @@ list1.add_list_item(12)
 > 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
 #### 基礎程式語法與function
 ```
-`**val**` = 當前節點node的值
-`**next**` = 當前節點node的值
+**`val`** = 當前節點node的值
+**`next`** = 當前節點node的值
 ```
 
 ## Referrence
