@@ -10,7 +10,7 @@
 * [Leetcode題目](#Leetcode題目)
     * [206_Reversed_Linked_List](#206_Reversed_Linked_List)
     * [707_Design_Linked_List](#707_Design_Linked_List)
-* [Referrence](#Referrence)
+* [Reference](#Reference)
 
 
 ## 簡介Linked-List
@@ -331,7 +331,7 @@ class MyLinkedList:
 ```
 
 
-## Referrence
+## Reference
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
 
 
