@@ -8,6 +8,8 @@
 * [影片觀念講解](#影片觀念講解)
 * [實作概念](#實作概念)
 * [Leetcode題目](#Leetcode題目)
+    * [206. Reversed Linked List](#206. Reversed Linked List)
+    * [707. Design Linked List](#707. Design Linked List)
 * [Referrence](#Referrence)
 
 
