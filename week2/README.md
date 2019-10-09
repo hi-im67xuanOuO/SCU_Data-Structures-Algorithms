@@ -148,15 +148,17 @@ list1.add_list_item(12)
 ## Leetcode題目
 ### 707. Design Linked List
 > 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
+
+
 #### 基礎程式語法與function
-**`val`** = 當前節點node的值
-**`next`** = 指向下一個節點
-**`prev`** = 指向前一個節點
-**`get(index)`** = 獲取第index節點的值。
-**`addAtHead(val)`** = 在第一個元素之前添加值為val的節點，插入後，成為新的第一個節點。
-**`addAtTail(val)`** = 將值為val的節點添加為最後一個節點。
-**`addAtIndex(index, val)`** = 在第index個節點之前添加一個值為val的節點。如果index等於linked list長度，則將該節點添加至末端。如果index大於長度，則不會插入該節點。
-**`deleteAtIndex(index)`** = 刪除第index個節點。
+* **`val`** = 當前節點node的值
+* **`next`** = 指向下一個節點
+* **`prev`** = 指向前一個節點
+* **`get(index)`** = 獲取第index節點的值。
+* **`addAtHead(val)`** = 在第一個元素之前添加值為val的節點，插入後，成為新的第一個節點。
+* **`addAtTail(val)`** = 將值為val的節點添加為最後一個節點。
+* **`addAtIndex(index, val)`** = 在第index個節點之前添加一個值為val的節點。如果index等於linked list長度，則將該節點添加至末端。如果index大於長度，則不會插入該節點。
+* **`deleteAtIndex(index)`** = 刪除第index個節點。
 
 
 
