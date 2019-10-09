@@ -4,8 +4,8 @@
 ## Part 1 課堂筆記
 * Week1：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
 * Week2：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
-    * [206_Reversed_Linked_List](#206_Reversed_Linked_List)
-    * [707_Design_Linked_List](#707_Design_Linked_List)
+    * 題目：[Leetcode 206. Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/)
+    * 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
 * Week3：[Stack & Queue](#Stack_&_Queue)
 * Week4：[Set](#Set)、[Insertion Sort](#Insertion_Sort)
 * Week5：
