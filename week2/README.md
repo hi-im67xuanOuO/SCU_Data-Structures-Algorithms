@@ -146,8 +146,13 @@ list1.add_list_item(12)
 
 
 ## Leetcode題目
-# 707. Design Linked List
+### 707. Design Linked List
 > 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
+#### 基礎程式語法與function
+```
+`**val**` = 當前節點node的值
+`**next**` = 當前節點node的值
+```
 
 ## Referrence
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
