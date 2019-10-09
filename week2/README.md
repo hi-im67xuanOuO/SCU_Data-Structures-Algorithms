@@ -146,6 +146,27 @@ list1.add_list_item(12)
 
 
 ## Leetcode題目
+### 206. Reversed Linked List
+> 題目：[Leetcode 206. Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+
+#### 完整程式碼
+```python
+class Solution:
+    def reverseList(self, head: ListNode) -> ListNode:
+        
+        prev = None # 設立prev儲存處理過後的節點
+        
+        while head:
+            current = head # current作為被挑出且將要處理的節點
+            head = head.next # head為下個要執行動作的節點
+            current.next = prev # 將處理過後的一串節點添加至正在處理中的節點之後
+            prev = current # prev為目前處理完成的一串節點
+        
+        return prev
+```
+
+
 ### 707. Design Linked List
 > 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
