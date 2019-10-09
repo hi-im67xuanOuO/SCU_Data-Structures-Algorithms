@@ -160,6 +160,8 @@ list1.add_list_item(12)
 * **`addAtIndex(index, val)`** = 在第index個節點之前添加一個值為val的節點。如果index等於linked list長度，則將該節點添加至末端。如果index大於長度，則不會插入該節點。
 * **`deleteAtIndex(index)`** = 刪除第index個節點。
 
+
+#### 完整程式碼
 ```python
 class MyLinkedList:
 
@@ -173,7 +175,7 @@ class MyLinkedList:
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
         """
-        if index < 0 or index >= len(self.linkedlist):
+        if index < 0 or index >= len(self.linkedlist) :
             return -1
         else:
             return self.linkedlist[index]
@@ -182,8 +184,8 @@ class MyLinkedList:
         """
         Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
         """
-        self.linkedlist.insert(0, val)
-
+        self.linkedlist.insert(0,val)
+        
     def addAtTail(self, val: int) -> None:
         """
         Append a node of value val to the last element of the linked list.
@@ -194,24 +196,18 @@ class MyLinkedList:
         """
         Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted.
         """
-        if 0 <= index and index <= len(self.linkedlist):
+        if index <= len(self.linkedlist):
             self.linkedlist.insert(index, val)
 
     def deleteAtIndex(self, index: int) -> None:
         """
         Delete the index-th node in the linked list, if the index is valid.
         """
-        
-
-
-# Your MyLinkedList object will be instantiated and called as such:
-# obj = MyLinkedList()
-# param_1 = obj.get(index)
-# obj.addAtHead(val)
-# obj.addAtTail(val)
-# obj.addAtIndex(index,val)
-# obj.deleteAtIndex(index)
+        if  0 <= index < len(self.linkedlist):
+            del self.linkedlist[index]
 ```
+
+
 
 ## Referrence
 * [http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)	
