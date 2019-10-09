@@ -8,8 +8,8 @@
 * [影片觀念講解](#影片觀念講解)
 * [實作概念](#實作概念)
 * [Leetcode題目](#Leetcode題目)
-    * [206. Reversed Linked List](#206.)
-    * [707. Design Linked List](#707.)
+    * [206.Reversed Linked List](#206.Reversed_Linked_List)
+    * [707.Design Linked List](#707.Design_Linked_List)
 * [Referrence](#Referrence)
 
 
@@ -148,7 +148,7 @@ list1.add_list_item(12)
 
 
 ## Leetcode題目
-### 206. Reversed Linked List
+### 206.Reversed_Linked_List
 > 題目：[Leetcode 206. Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 
@@ -169,7 +169,7 @@ class Solution:
 ```
 
 
-### 707. Design Linked List
+### 707.Design_Linked_List
 > 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
 
