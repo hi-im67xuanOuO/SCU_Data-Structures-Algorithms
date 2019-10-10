@@ -12,7 +12,7 @@
 * **Week4**：[Set](#https://github.com/chinghsuan/class_exercises/blob/master/week4/README.md)、[Insertion Sort](#https://github.com/chinghsuan/class_exercises/blob/master/week4/README.md)
     * 題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
     * 題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
-* **Week5**：
+* **Week5**：[Quick Sort](#Qucik Sort)
 * **Week6**：
 ## Part 2 自主練習筆記
 
