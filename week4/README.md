@@ -69,10 +69,10 @@ class Solution:
 > 時間複雜度(Time Complexity)：Best Case：Ο(1)，當資料的順序恰好為由小到大時，每回合只需比較1次
 
 
-                             Worst Case：Ο(n2)，當資料的順序恰好為由大到小時，第i回合需比i次  
+>                            Worst Case：Ο(n2)，當資料的順序恰好為由大到小時，第i回合需比i次  
                              
                              
-                             Average Case：Ο(n2)，第n筆資料，平均比較n/2次
+>                            Average Case：Ο(n2)，第n筆資料，平均比較n/2次
 
 
    ![InsertionSort1](https://runestone.academy/runestone/books/published/pythonds/_images/insertionsort.png
