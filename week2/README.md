@@ -83,7 +83,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
     
     
 ## 影片觀念講解
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
+   <a href="http://www.youtube.com/watch?feature=player_embedded&v=WwfhLC16bis
 " target="_blank"><img src="http://img.youtube.com/vi/WwfhLC16bis/0.jpg" 
 alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
