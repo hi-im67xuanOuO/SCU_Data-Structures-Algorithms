@@ -63,6 +63,59 @@ class Solution:
 ```
 
 
+# Part2-Insertion_Sort
+## 簡介Insertion_Sort
+集合Set是一個無序的**不重複**元素序列。創建一個空集合時，需使用 **`set()`** 而不是`{}`，{}使用來創造一空字典Dictionary。
+
+
+## 影片觀念講解
+   <a href="https://www.youtube.com/watch?v=lCzQvQr8Utw&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/lCzQvQr8Utw/0.jpg" 
+alt="Insertion Sort" width="720" height="540" border="10" /></a>
+
+
+## 基礎程式語法與function
+* **`add(value)`** = 加入新元素。
+* **`remove(value)`** = 移除元素。
+* **`len()`** = 回傳set長度。
+* **`sum()`** = 回傳set總和。
+* **`max()`** = 回傳set中的最大值。
+* **`min()`** = 回傳set中的最小值。
+* **`in`與`not in`** = 判斷元素是否存在於set中。
+* **`issubset()`** = 回傳是否為子集合(subset)。
+* **`issuperset()`** = 回傳是否為超集合 (superset)。
+* **`discard()`** = 刪除set中指定元素。
+* **`clear()`** = 清空set。
+* 集合 (Set) 沒辦法使用索引 (Index) 來印出
+* 使用 == 與 != 來判斷兩個集合是否相同
+
+|作用|程式碼|其它表示方法|
+|----------|-----------|-----------|
+| 聯集   | `union`    | x | y |
+| 交集   | `intersection`   | x & y |
+| 差集   | `difference`   | x - y |
+| 對稱差集   | `symmetric_difference`   | |
+
+
+## Leetcode題目
+### 645_Set_Mismatch
+> 題目：[Leetcode 645.Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+
+
+#### 完整程式碼
+```python
+class Solution:
+    def findErrorNums(self, nums: List[int]) -> List[int]:
+        holder = [0]*len(nums)
+        repeat_num = 0
+        for i in range(len(nums)):
+            if holder[nums[i]-1] != 0:
+                repeat_num = nums[i]
+            holder[nums[i]-1] = nums[i]
+        return [repeat_num,holder.index(0)+1]
+```
+
+
 ## Reference
 * [http://www.runoob.com/python/python-func-set.html](http://www.runoob.com/python/python-func-set.html)	
 
