@@ -65,28 +65,21 @@ class Solution:
 
 # Part2-Insertion_Sort
 ## 簡介Insertion_Sort
-集合Set是一個無序的**不重複**元素序列。創建一個空集合時，需使用 **`set()`** 而不是`{}`，{}使用來創造一空字典Dictionary。
+插入排序法（Insertion sort）將數列分成排序與未排序兩部分，未排序數列中的數與已排序數列中之數比較大小，並把其插入已排序數列中適當的位置，比該數大的值則向右（後）移動。也就是說從未排序的數列裡，每次取一個值並逐一和已排序的數列進行比較，並插入到已排序的數列中，適合的位置。
+
+
+   ![InsertionSort1](https://runestone.academy/runestone/books/published/pythonds/_images/insertionsort.png
+ "InsertionSort1")
+
+
+> 圖一 
+> 圖片來源：[https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html)
 
 
 ## 影片觀念講解
    <a href="https://www.youtube.com/watch?v=lCzQvQr8Utw&feature=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/lCzQvQr8Utw/0.jpg" 
 alt="Insertion Sort" width="720" height="540" border="10" /></a>
-
-
-## 基礎程式語法與function
-* **`add(value)`** = 加入新元素。
-* **`remove(value)`** = 移除元素。
-* **`len()`** = 回傳set長度。
-* **`sum()`** = 回傳set總和。
-
-
-|作用|程式碼|其它表示方法|
-|----------|-----------|-----------|
-| 聯集   | `union`    | x | y |
-| 交集   | `intersection`   | x & y |
-| 差集   | `difference`   | x - y |
-| 對稱差集   | `symmetric_difference`   | |
 
 
 ## Leetcode題目
