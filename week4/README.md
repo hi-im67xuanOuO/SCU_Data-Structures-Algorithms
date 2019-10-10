@@ -1,7 +1,7 @@
 # week4 - Set & Insertion Sort
 
 ## Contents
-* [**Set**](#Set)
+* [`**Set**`](#Set)
 * [簡介Set](#簡介Stack及Queue)
 * [影片觀念講解](#影片觀念講解)
 * [基礎程式語法與function](#基礎程式語法與function)
@@ -9,7 +9,7 @@
 * [Leetcode題目](#Leetcode題目)
     * [155_Min_Stack](#155_Min_Stack)
     * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
-* [**Insertion Sort**](#Insertion Sort)
+* [`**Insertion Sort**`](#Insertion Sort)
 * [簡介Insertion_Sort](#簡介Insertion_Sort)
 * [影片觀念講解](#影片觀念講解)
 * [基礎程式語法與function](#基礎程式語法與function)
