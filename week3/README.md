@@ -22,6 +22,10 @@
       ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-1.jpg "Stack1")
 
 
+    * **`pop`**：將Stack最頂部的元素刪除。
+
+      ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-2.jpg "Stack2")
+
 > 圖一 
 > 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
 
