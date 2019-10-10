@@ -3,12 +3,10 @@
 ## Contents
 * [**`Part1-Set`**](#Part1-Set)
    * [簡介Set](#簡介Set)
-   * [影片觀念講解](#影片觀念講解)
    * [基礎程式語法與function](#基礎程式語法與function)
    * [實作概念](#實作概念)
    * [Leetcode題目](#Leetcode題目)
       * [155_Min_Stack](#155_Min_Stack)
-      * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
 * [**`Part2-Insertion_Sort`**](#Part2-Insertion_Sort)
    * [簡介Insertion_Sort](#簡介Insertion_Sort)
    * [影片觀念講解](#影片觀念講解)
@@ -16,111 +14,36 @@
    * [實作概念](#實作概念)
    * [Leetcode題目](#Leetcode題目)
       * [155_Min_Stack](#155_Min_Stack)
-      * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
 * [Reference](#Reference)
 
 
 # Part1-Set
 ## 簡介Set
-Stack和Queue是兩個使我們能簡單地依序檢索和儲存數據的結構。在Stack中，我們輸入的最後一個元素會是第一個被顯示出來的元素。在Queue中，我們輸入的第一個元素則會是第一個被顯示的元素。我們可以使用`push`將項目添加到Stack中，並使用`pop`操作來檢索項目。對於Queue，我們使用`enqueue`來添加項目，並使用`dequeue`檢索項目。
-
-
-### `Stack`
-* **遵循LIFO原則**：Last-in-First-out原則，就像一個硬幣堆在另一個硬幣上，最後一個被放在頂部的硬幣，會是第一個要從堆疊中移除的硬幣。
-* 在高階程式語言，通常用array、linked list來實作。
-* 大部分的程式語言都是Stack-Oriented，因為仰賴堆疊來處理method call(呼叫堆疊, Call Stack)。
-* 應用例子：瀏覽器回上一頁、PhotoShop上一步(undo)
-* Stack特性：有限的記憶體配置空間、存活時間規律可預測的
-
-* 下圖為兩個Stack的基本操作：
-    * **`push`**：將元素添加至Stack頂部。
-
-      ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-1.jpg "Stack1")
-
-
-    * **`pop`**：將Stack最頂部的元素刪除。
-
-      ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-2.jpg "Stack2")
-
-
-> 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
-
-
-### `Queue`
-* **遵循FIFO原則**：Fast-in-First-out原則，就像排隊等候進場一樣，第一個排隊的人會是能夠優先進場的人。
-* 在高階程式語言，通常用array、linked list來實作。
-* 應用例子：多個程序的資源共享，例如CPU排程
-
-* 下圖為兩個Queue的基本操作：
-    * **`enqueue`**：將元素添加至Queue尾端。
-
-      ![Queue1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-3.jpg "Queue1")
-
-
-    * **`dequeue`**：將Queue最前端的元素刪除。
-
-      ![Queue2](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-4.jpg "Queue2")
-
-
-> 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
-    
-    
-## 影片觀念講解
-<a href="https://www.youtube.com/watch?v=wjI1WNcIntg" target="_blank"><img src="http://img.youtube.com/vi/wjI1WNcIntg/0.jpg" 
-alt="Stack&Queue" width="720" height="540" border="10" /></a>
+集合Set是一個無序的**不重複**元素序列。創建一個空集合時，需使用 **`set()`** 而不是`{}`，{}使用來創造一空字典Dictionary。
 
 
 ## 基礎程式語法與function
-### `Stack`
-* **`Push(Data)`** = 把資料放進Stack。ex:把書放進箱子。
-* **`pop`** = 把Stack中最上層的資料移除。ex:把箱子中最上面的書拿出。
-* **`top`** = 回傳Stack最上面的資料。ex:確認箱子中最上面的是哪本書。
-* **`isEmpty`** = 確認Stack中是否有資料。ex:確認箱子中是否有書。
-* **`getSize`** = 回傳Stack中的資料個數。ex:記錄目前箱子中有多少本書。
+* **`add(value)`** = 加入新元素。
+* **`remove(value)`** = 移除元素。
+* **`len()`** = 回傳set長度。
+* **`sum()`** = 回傳set總和。
+* **`max()`** = 回傳set中的最大值。
+* **`min()`** = 回傳set中的最小值。
+* **`in`與`not in`** = 判斷元素是否存在於set中。
+* 集合 (Set) 沒辦法使用索引 (Index) 來印出
 
-
-### `Queue`
-* **`Push(Data)`** = 把資料從「最後面」放進Queue，形成新的back。ex:新來的人要從後面排隊，成為隊伍新的最後一個人。
-* **`pop`** = 把front所指向的資料從Queue中移除，更新新的front。從Queue中刪除資料又稱為dequeue。
-* **`getFront`** = 回傳front所指向的資料。
-* **`getBack`** = 回傳back所指向的資料。
-* **`isEmpty`** = 確認Queue中是否有資料。ex:確認隊伍中是否有排隊者。
-* **`getSize`** = 回傳Queue中的資料個數。ex:記錄目前隊伍中有多少人。
+|作用|程式碼|其它表示方法|
+|----------|-----------|-----------|
+| 聯集   | `union`    | x | y |
+| 交集   | `intersection`   | x & y |
+| 差集   | `difference`   | x - y |
+| 對稱差集   | `symmetric_difference`   | |
 
 
 ## 實作概念
 * **part1-Stack**：包含了pop與append用法
 ```python
->>> stack = [3, 4, 5]
->>> stack.append(6)
->>> stack.append(7)
->>> stack
-[3, 4, 5, 6, 7]
->>> stack.pop()
-7
->>> stack
-[3, 4, 5, 6]
->>> stack.pop()
-6
->>> stack.pop()
-5
->>> stack
-[3, 4]
-```
 
-
-* **part2-Queue**：定義出各種資料結構操作的list本身
-```python
->>> from collections import deque
->>> queue = deque(["Eric", "John", "Michael"])
->>> queue.append("Terry")           # Terry arrives
->>> queue.append("Graham")          # Graham arrives
->>> queue.popleft()                 # The first to arrive now leaves
-'Eric'
->>> queue.popleft()                 # The second to arrive now leaves
-'John'
->>> queue                           # Remaining queue in order of arrival
-deque(['Michael', 'Terry', 'Graham'])
 ```
 
 
@@ -131,58 +54,8 @@ deque(['Michael', 'Terry', 'Graham'])
 
 #### 完整程式碼
 ```python
-class MinStack:
-
-    def __init__(self):
-        self.stack = []
-        
-    def push(self, x):
-        if not self.stack:
-            self.stack.append((x,x))
-        else:
-            self.stack.append((x,min(x,self.stack[-1][1])))
-        
-    def pop(self):
-        self.stack.pop()
-
-    def top(self):
-        return self.stack[-1][0]
-        
-    def getMin(self):
-        return self.stack[-1][1]
 
 ```
-
-
-### 232_Implement-Queue-Using-Stacks
-> 題目：[Leetcode 232.Implement-Queue-Using-Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-
-
-#### 完整程式碼
-```python
-class MyQueue:
-
-    def __init__(self):
-        self.queue = []
-        
-
-    def push(self, x: int) -> None:
-        self.queue.append(x)
-        
-    def pop(self) -> int:
-        if len(self.queue) != 0:
-            return self.queue.pop(0)
-        
-
-    def peek(self) -> int:
-        if len(self.queue) != 0:
-            return self.queue[0]
-        
-
-    def empty(self) -> bool:
-        return len(self.queue) == 0
-```
-
 
 
 ## Reference
