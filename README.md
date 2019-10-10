@@ -15,7 +15,56 @@
 * **Week5**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)
 * **Week6**：
 
-## Part 2 自主練習筆記
+## Part 2 自主練習
+* [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/codesignal%20-%20intro)
+* [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/codesignal%20-%20python)
+* [Leetcode自我練習](https://github.com/chinghsuan/class_exercises/tree/master/Leetcode)
+
+|#|    Title   |My Solution|
+|---|-------------| ----- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|9|[Palindrome Number](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|27|[Remove Element](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|28|[Implement strStr()](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|58|[Length of Last Word](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|136|[Single Number](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|147|[Insertion Sort List](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|155|[Min Stack](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|169|[Majority Element](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|206|[Reversed Linked List](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|217|[Reversed Linked List](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|231|[Power of Two](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|242|[Valid Anagram](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|268|[Missing Number](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|283|[Move Zeroes](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|326|[Power of Three](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|342|[Power of Four](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|367|[Valid Perfect Square](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|371|[Sum of Two Imtegers](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|441|[Arranging Coins](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|509|[Fibonacci Number](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|520|[Detect Capital](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|557|[Reverse Words in a String III](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|561|[Array Partition I](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|645|[Set Mismatch](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|657|[Robot Return to Origin](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|707|[Design Linked List](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|709|[To Lower Case](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|771|[Jewels and Stones.py](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|905|[Sort Array By Parity](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|922|[Sort Array By Parity ll](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|942|[DI String Match](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|1108|[Defanging an IP Address](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|1154|[Day of the Year](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|1185|[Day of the week](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)
+
 
 ## About me
 - **姓名**：劉謦瑄
