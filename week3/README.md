@@ -123,6 +123,25 @@ deque(['Michael', 'Terry', 'Graham'])
 
 #### 完整程式碼
 ```python
+class MinStack:
+
+    def __init__(self):
+        self.stack = []
+        
+    def push(self, x):
+        if not self.stack:
+            self.stack.append((x,x))
+        else:
+            self.stack.append((x,min(x,self.stack[-1][1])))
+        
+    def pop(self):
+        self.stack.pop()
+
+    def top(self):
+        return self.stack[-1][0]
+        
+    def getMin(self):
+        return self.stack[-1][1]
 
 ```
 
@@ -133,7 +152,27 @@ deque(['Michael', 'Terry', 'Graham'])
 
 #### 完整程式碼
 ```python
+class MyQueue:
 
+    def __init__(self):
+        self.queue = []
+        
+
+    def push(self, x: int) -> None:
+        self.queue.append(x)
+        
+    def pop(self) -> int:
+        if len(self.queue) != 0:
+            return self.queue.pop(0)
+        
+
+    def peek(self) -> int:
+        if len(self.queue) != 0:
+            return self.queue[0]
+        
+
+    def empty(self) -> bool:
+        return len(self.queue) == 0
 ```
 
 
