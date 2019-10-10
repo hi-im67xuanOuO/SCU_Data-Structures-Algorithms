@@ -8,7 +8,8 @@
 * [基礎程式語法與function](#基礎程式語法與function)
 * [實作概念](#實作概念)
 * [Leetcode題目](#Leetcode題目)
-    * [206_Reversed_Linked_List](#206_Reversed_Linked_List)
+    * [155_Min_Stack](#155_Min_Stack)
+    * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
 * [Reference](#Reference)
 
 
