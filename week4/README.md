@@ -4,9 +4,8 @@
 * [**`Part1-Set`**](#Part1-Set)
    * [簡介Set](#簡介Set)
    * [基礎程式語法與function](#基礎程式語法與function)
-   * [實作概念](#實作概念)
    * [Leetcode題目](#Leetcode題目)
-      * [155_Min_Stack](#155_Min_Stack)
+      * [645_Set_Mismatch](#645_Set_Mismatch)
 * [**`Part2-Insertion_Sort`**](#Part2-Insertion_Sort)
    * [簡介Insertion_Sort](#簡介Insertion_Sort)
    * [影片觀念講解](#影片觀念講解)
@@ -45,21 +44,22 @@
 | 對稱差集   | `symmetric_difference`   | |
 
 
-## 實作概念
-* **part1-Stack**：包含了pop與append用法
-```python
-
-```
-
-
 ## Leetcode題目
-### 155_Min_Stack
-> 題目：[Leetcode 155. Min_Stack](https://leetcode.com/problems/min-stack/)
+### 645_Set_Mismatch
+> 題目：[Leetcode 645.Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 
 
 #### 完整程式碼
 ```python
-
+class Solution:
+    def findErrorNums(self, nums: List[int]) -> List[int]:
+        holder = [0]*len(nums)
+        repeat_num = 0
+        for i in range(len(nums)):
+            if holder[nums[i]-1] != 0:
+                repeat_num = nums[i]
+            holder[nums[i]-1] = nums[i]
+        return [repeat_num,holder.index(0)+1]
 ```
 
 
