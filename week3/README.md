@@ -49,37 +49,6 @@ Stack和Queue是兩個使我們能簡單地依序檢索和儲存數據的結構�
 > 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
 
 
-
-
-```python
->>> stack = [3, 4, 5]
->>> stack.append(6)
->>> stack.append(7)
->>> stack
-[3, 4, 5, 6, 7]
->>> stack.pop()
-7
->>> stack
-[3, 4, 5, 6]
->>> stack.pop()
-6
->>> stack.pop()
-5
->>> stack
-[3, 4]
-```
-
-
-
-
-
-
-
-
-
-
-
-
 ## 比較Array與Linked-List
 ### Array
 * 優點
@@ -116,59 +85,39 @@ alt="圖片 ALT 文字放在這裡" width="720" height="540" border="10" /></a>
 
 
 ## 實作概念
-* **part1 - class ListNode**：包含了資料及指標兩個屬性的節點
+* **part1-Stack**：包含了pop與append用法
 ```python
-class ListNode:
-  def __init__(self, data): 
-    # store data
-    self.data = data
-    # store the reference (next item)
-    self.next = None
-    return
+>>> stack = [3, 4, 5]
+>>> stack.append(6)
+>>> stack.append(7)
+>>> stack
+[3, 4, 5, 6, 7]
+>>> stack.pop()
+7
+>>> stack
+[3, 4, 5, 6]
+>>> stack.pop()
+6
+>>> stack.pop()
+5
+>>> stack
+[3, 4]
 ```
-在建立一個節點時，需要傳入一個data的值，並且指標預設是指向None的。
-```python
-node1 = ListNode(15)
-```
-這樣就會建立一個帶有15的資料的節點了。
 
 
-* **part2 - class SingleLinkedList**：定義出各種資料結構操作的list本身
+* **part2-Queue**：定義出各種資料結構操作的list本身
 ```python
-class SingleLinkedList:
-  def __init__(self): 
-    self.head = None
-    self.tail = None
-    return
+>>> from collections import deque
+>>> queue = deque(["Eric", "John", "Michael"])
+>>> queue.append("Terry")           # Terry arrives
+>>> queue.append("Graham")          # Graham arrives
+>>> queue.popleft()                 # The first to arrive now leaves
+'Eric'
+>>> queue.popleft()                 # The second to arrive now leaves
+'John'
+>>> queue                           # Remaining queue in order of arrival
+deque(['Michael', 'Terry', 'Graham'])
 ```
-在建立list的一開始，我們預設裡面是沒有節點的。而linked-list本身帶有head跟tail兩個屬性。當我們加入一個新的節點時：
-1. 若list本身還沒有任何節點，則head以及tail都會變成新的結點
-2. 若list已經包含有其他節點，則新加入的節點變成新的tail（本來的tail指向新的節點）。
-
-```python
-def add_list_item(self, item):
-  # make sure item is a proper node  
-  if not isinstance(item, ListNode):
-    item = ListNode(item)
-    
-  if self.head is None:
-    self.head = item
-  else:
-    self.tail.next = item
-    
-  self.tail = item
-  return
-```
-其中比較需要注意的是，在取得item之後，要檢查item是否是一個結點，若不是的話則使用ListNode(item)建立一個帶有item資料的節點。
-```python
-list1 = SingleLinkedList()
-list1.add_list_item(node1)
-list1.add_list_item(12)
-```
-這樣子就建立一個名為list1的linked-list，裡面包含了帶有資料15以及12的節點。
-
-
-更多相關Linked List程式語法，可以參考 [https://stackabuse.com/python-linked-lists/](https://stackabuse.com/python-linked-lists/)
 
 
 ## Leetcode題目
