@@ -30,8 +30,12 @@
 * **`max()`** = 回傳set中的最大值。
 * **`min()`** = 回傳set中的最小值。
 * **`in`與`not in`** = 判斷元素是否存在於set中。
+* **`issubset()`** = 回傳是否為子集合(subset)。
+* **`issuperset()`** = 回傳是否為超集合 (superset)。
+* **`discard()`** = 刪除set中指定元素。
+* **`clear()`** = 清空set。
 * 集合 (Set) 沒辦法使用索引 (Index) 來印出
-
+* 使用 == 與 != 來判斷兩個集合是否相同
 |作用|程式碼|其它表示方法|
 |----------|-----------|-----------|
 | 聯集   | `union`    | x | y |
@@ -59,14 +63,11 @@
 
 
 ## Reference
-* [https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)	
+* [http://www.runoob.com/python/python-func-set.html](http://www.runoob.com/python/python-func-set.html)	
 
 
-* [https://www.101computing.net/stacks-and-queues-using-python/](https://www.101computing.net/stacks-and-queues-using-python/)
+* [https://wenyuangg.github.io/posts/python3/python-set.html](https://wenyuangg.github.io/posts/python3/python-set.html)
 
 
-* [https://docs.python.org/zh-tw/3/tutorial/datastructures.html](https://docs.python.org/zh-tw/3/tutorial/datastructures.html)
-
-
-* [https://super9.space/archives/1105#%E7%B0%A1%E4%BB%8B](https://super9.space/archives/1105#%E7%B0%A1%E4%BB%8B)
+* [http://www.runoob.com/python3/python3-set.html](http://www.runoob.com/python3/python3-set.html)
 
