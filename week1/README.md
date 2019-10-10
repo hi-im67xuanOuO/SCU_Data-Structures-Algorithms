@@ -2,7 +2,7 @@
 ===========================
 測試並展示書寫README時的各種markdown語法。此語法稱為`GitHub Flavored Markdown`，簡稱`GFM`。除了README外，issues和wiki均支持markdown語法。
 
-## 目錄
+## Contents
 * [分隔線Line](#分隔線Line)
 * [標題Header](#標題Header)
 * [重點Emphasis](#重點Emphasis)
