@@ -15,7 +15,7 @@
 
 ## 簡介Stack及Queue
 ### Stack
-* **遵循LIFO原則**：Last-in-first-out原則，就像一個硬幣堆在另一個硬幣上，最後一個被放在頂部的硬幣，會是第一個要從堆疊中移除的硬幣。
+* **遵循LIFO原則**：Last-in-First-out原則，就像一個硬幣堆在另一個硬幣上，最後一個被放在頂部的硬幣，會是第一個要從堆疊中移除的硬幣。
 * 下圖為兩個Stack的基本操作：
     * **`push`**：將元素添加至Stack頂部。
 
@@ -26,11 +26,24 @@
 
       ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-2.jpg "Stack2")
 
-> 圖一 
+
 > 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
 
 
 ### Queue
+* **遵循FIFO原則**：Fast-in-First-out原則，就像排隊等候進場一樣，第一個排隊的人會是能夠優先進場的人。
+* 下圖為兩個Queue的基本操作：
+    * **`enqueue`**：將元素添加至Queue尾端。
+
+      ![Queue1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-3.jpg "Queue1")
+
+
+    * **`dequeue`**：將Queue最前端的元素刪除。
+
+      ![Queue2](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-4.jpg "Queue2")
+
+
+> 圖片來源：[https://stackabuse.com/stacks-and-queues-in-python/](https://stackabuse.com/stacks-and-queues-in-python/)
 
 
 
