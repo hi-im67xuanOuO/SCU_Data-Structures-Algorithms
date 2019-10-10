@@ -23,7 +23,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用`node(節點)
 
 
 
-![Linked_List_1](https://github.com/chinghsuan/class_exercises/blob/master/img/Linked_list_1.jpg "Linked_List_1")
+   ![Linked_List_1](https://github.com/chinghsuan/class_exercises/blob/master/img/Linked_list_1.jpg "Linked_List_1")
 
 
 > 圖一 
