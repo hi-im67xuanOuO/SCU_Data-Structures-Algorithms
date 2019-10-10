@@ -6,7 +6,7 @@
 * Week2：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
     * 題目：[Leetcode 206. Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/)
     * 題目：[Leetcode 707.Design Linked List](https://leetcode.com/problems/design-linked-list/)
-* Week3：[Stack and Queue](#https://github.com/chinghsuan/class_exercises/tree/master/week3)
+* Week3：[Stack & Queue](https://github.com/chinghsuan/class_exercises/tree/master/week3)
 * Week4：[Set](#Set)、[Insertion Sort](#Insertion_Sort)
 * Week5：
 * Week6：
