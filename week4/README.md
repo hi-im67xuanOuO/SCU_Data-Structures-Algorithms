@@ -9,7 +9,7 @@
 * [**`Part2-Insertion_Sort`**](#Part2-Insertion_Sort)
    * [簡介Insertion_Sort](#簡介Insertion_Sort)
    * [影片觀念講解](#影片觀念講解)
-   * [基礎程式語法與function](#基礎程式語法與function)
+   * [處理步驟分解](#處理步驟分解)
    * [實作概念](#實作概念)
    * [Leetcode題目](#Leetcode題目)
       * [147_Insertion_Sort_List](#147_Insertion_Sort_List)
@@ -81,6 +81,13 @@ class Solution:
 " target="_blank"><img src="http://img.youtube.com/vi/lCzQvQr8Utw/0.jpg" 
 alt="Insertion Sort" width="720" height="540" border="10" /></a>
 
+## 處理步驟分解
+1. 從第一個元素開始，該元素可以認為已經被排序
+2. 取出下一個元素，在已經排序的元素序列中從後向前掃描
+3. 如果該元素（已排序）大於新元素，將該元素移到下一位置
+4. 重複步驟3，直到找到已排序的元素小於或者等於新元素的位置
+5. 將新元素插入到該位置後重複步驟2~5
+
 
 ## Leetcode題目
 ### 147_Insertion_Sort_List
@@ -121,3 +128,5 @@ class Solution(object):
 
 * [http://www.runoob.com/python3/python3-set.html](http://www.runoob.com/python3/python3-set.html)
 
+
+* [https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/119168/#outline__3](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/119168/#outline__3)
