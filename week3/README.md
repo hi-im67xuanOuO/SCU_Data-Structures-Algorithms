@@ -1,6 +1,6 @@
 # week3 - Stack & Queue
 
-## Contact
+## Contents
 * [簡介Stack及Queue](#簡介Stack及Queue)
     * [Stack](#Stack)
     * [Queue](#Queue)
