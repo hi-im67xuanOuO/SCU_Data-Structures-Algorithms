@@ -1,6 +1,6 @@
 # week2 - Linked List
 
-## Contact
+## Contents
 * [簡介Linked-List](#簡介Linked-List)
 * [比較Array與Linked-List](#比較Array與Linked-List)
     * [Array](#Array)
