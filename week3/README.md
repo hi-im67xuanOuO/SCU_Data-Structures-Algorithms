@@ -19,8 +19,7 @@
 * 下圖為兩個Stack的基本操作：
     * **`push`**：將元素添加至Stack頂部。
 
-![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-1.jpg "Stack1")
-![Stack2](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-2.jpg "Stack2")
+      ![Stack1](https://s3.amazonaws.com/stackabuse/media/stacks-and-queues-in-python-1.jpg "Stack1")
 
 
 > 圖一 
