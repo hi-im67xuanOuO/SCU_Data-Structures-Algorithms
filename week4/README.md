@@ -3,13 +3,12 @@
 ## Contents
 * [**`Part1-Set`**](#Part1-Set)
    * [簡介Set](#簡介Set)
-      * [影片觀念講解](#影片觀念講解)
-      * [基礎程式語法與function](#基礎程式語法與function)
-      * [實作概念](#實作概念)
-      * [Leetcode題目](#Leetcode題目)
-         * [155_Min_Stack](#155_Min_Stack)
-         * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
-    
+   * [影片觀念講解](#影片觀念講解)
+   * [基礎程式語法與function](#基礎程式語法與function)
+   * [實作概念](#實作概念)
+   * [Leetcode題目](#Leetcode題目)
+      * [155_Min_Stack](#155_Min_Stack)
+      * [232_Implement-Queue-Using-Stacks](#232_Implement-Queue-Using-Stacks)
 * [**`Part2-Insertion_Sort`**](#Part2-Insertion_Sort)
    * [簡介Insertion_Sort](#簡介Insertion_Sort)
    * [影片觀念講解](#影片觀念講解)
@@ -21,7 +20,8 @@
 * [Reference](#Reference)
 
 
-## 簡介Stack及Queue
+# Part1-Set
+## 簡介Set
 Stack和Queue是兩個使我們能簡單地依序檢索和儲存數據的結構。在Stack中，我們輸入的最後一個元素會是第一個被顯示出來的元素。在Queue中，我們輸入的第一個元素則會是第一個被顯示的元素。我們可以使用`push`將項目添加到Stack中，並使用`pop`操作來檢索項目。對於Queue，我們使用`enqueue`來添加項目，並使用`dequeue`檢索項目。
 
 
