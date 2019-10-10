@@ -19,6 +19,4 @@
 - **學校**：Soochow University（東吳大學）
 - **主修學系**：Big Data Management（巨量資料管理）
 - **常用程式語言**：Python、R、PHP
-
-## Contact
 - **Email**: chinghsuan86@gmail.com
