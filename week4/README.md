@@ -66,6 +66,9 @@ class Solution:
 # Part2-Insertion_Sort
 ## 簡介Insertion_Sort
 插入排序法（Insertion sort）將數列分成排序與未排序兩部分，未排序數列中的數與已排序數列中之數比較大小，並把其插入已排序數列中適當的位置，比該數大的值則向右（後）移動。也就是說從未排序的數列裡，每次取一個值並逐一和已排序的數列進行比較，並插入到已排序的數列中，適合的位置。
+> 時間複雜度(Time Complexity)：Best Case：Ο(1)，當資料的順序恰好為由小到大時，每回合只需比較1次  
+                             Worst Case：Ο(n2)，當資料的順序恰好為由大到小時，第i回合需比i次  
+                             Average Case：Ο(n2)，第n筆資料，平均比較n/2次
 
 
    ![InsertionSort1](https://runestone.academy/runestone/books/published/pythonds/_images/insertionsort.png
