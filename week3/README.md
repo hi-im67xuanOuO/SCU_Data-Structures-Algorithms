@@ -79,7 +79,7 @@ Stack和Queue是兩個使我們能簡單地依序檢索和儲存數據的結構�
     
     
 ## 影片觀念講解
-<a href="https://www.youtube.com/watch?v=wjI1WNcIntg" target="_blank"><img src="https://www.youtube.com/watch?v=wjI1WNcIntg" 
+<a href="https://www.youtube.com/watch?v=wjI1WNcIntg" target="_blank"><img src="http://img.youtube.com/vi/wjI1WNcIntg/0.jpg" 
 alt="Stack&Queue" width="720" height="540" border="10" /></a>
 
 
