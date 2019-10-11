@@ -11,7 +11,7 @@
 
 
 ## 簡介Quick_Sort
-
+快速排序法（Quick sort）運用到 Divide and conquer 的概念，把數列一分為二，最終完成排序。
 
 * **時間複雜度(Time Complexity)**：
   * Best Case：
@@ -35,6 +35,11 @@
 alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 ## 處理步驟分解
+1.  取第一個元素（最左的數）為鍵值 key
+2.  由左向右（前向後）找一個數（第一個滿足的），其值大於等於 key 值，該數之索引為 left_pivot
+3.  由右向左（後向前）找一個數（第一個滿足的），其值小於等於 key 值，該數之索引為 right_pivot
+4.  如果 left_pivot < right_pivot 則交換值，否則把 key 值與 right_pivot 值交換，以 right_pivot 為基準，分為左右兩個數列
+5. 重複上述步驟排序左右兩個數列，直到完成排序
 
 
 ## Leetcode題目
