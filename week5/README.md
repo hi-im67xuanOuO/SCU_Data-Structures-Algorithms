@@ -11,7 +11,7 @@
 
 
 ## 簡介Quick_Sort
-快速排序法（Quick sort）運用到 Divide and conquer 的概念，把數列一分為二，最終完成排序。
+快速排序法（Quick sort）運用到 Divide and conquer 的概念：先找一個基準點（key），然後派兩個代理人分別從資料的兩邊開始往中間找，如果右邊找到一個值比基準點小，左邊找到一個值比基準點大，就讓他們互換。反覆此動作直到兩個點相遇。然後再將相遇的點值與基準點互換，第一輪結束。如此重複遞迴，把數列一分為二，直到最終完成排序。
 
 * **時間複雜度(Time Complexity)**：
   * Best Case：
@@ -21,12 +21,11 @@
 * **穩定性(Stable/Unstable)** ：
 
 
-   ![InsertionSort1](https://runestone.academy/runestone/books/published/pythonds/_images/insertionsort.png
- "InsertionSort1")
+   ![QuickSort](https://pic.pimg.tw/jialin128/1467645871-4201784417_n.png "QuickSort")
 
 
 > 圖一 
-> 圖片來源：[https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheInsertionSort.html)
+> 圖片來源：[http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python](http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python)
 
 
 ## 影片觀念講解
