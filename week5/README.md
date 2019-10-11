@@ -31,7 +31,7 @@
 ## 影片觀念講解
    <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
 " target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
-alt="Quick Sort" width="1440" height="1080" border="10" /></a>
+alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 ## 處理步驟分解
 1. 從第一個元素開始，該元素可以認為已經被排序
