@@ -32,6 +32,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/136.%20Single%20Number.py)
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/147.%20Insertion%20Sort%20List.py)
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/155.%20Min%20Stack.py)
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/169.%20Majority%20Element.py)
 |206|[Reversed Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/206.%20Reversed%20Linked%20List.py)
