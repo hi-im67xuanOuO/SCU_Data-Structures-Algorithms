@@ -13,6 +13,7 @@
     * 課堂練習題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
     * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
 * **Week5**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)
+    * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week6**：
 
 ## Part 2 自主練習
