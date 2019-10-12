@@ -123,6 +123,14 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 ![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort有使用額外空間")
 > 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
 
+
+* 無使用額外空間版本：
+
+
+![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort%E7%84%A1%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort無使用額外空間")
+> 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+
+
 ## Leetcode題目
 ### 148_Sort_List
 > 題目：[Leetcode 148.Sort_List](https://leetcode.com/problems/sort-list/)
