@@ -185,3 +185,6 @@ class Solution(object):
 
 * [https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR](https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR)
 
+
+* [https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html)
+
