@@ -144,10 +144,10 @@ class Solution(object):
     def sortList(self, head: ListNode) -> ListNode:
         
         if not head or not head.next:
-            return head #just like the array merge-sort
+            return head
         # pre = ListNode(0) #use it to clear the rear half linked list
-        slow = fast = head #find the mid point
-        while fast and fast.next: #A normal way to go through the linked list using 2 pointer.
+        slow = fast = head # 找到中心點
+        while fast and fast.next:
             pre = slow
             slow = slow.next
             fast = fast.next.next
@@ -156,8 +156,8 @@ class Solution(object):
         return self.merge(self.sortList(head), self.sortList(slow))
         
         
-    def merge(self, left, right): #just like the mergesort in array, we need to merge each time
-        res = cur = ListNode(0) #created a new linked list to keep the merge
+    def merge(self, left, right):
+        res = cur = ListNode(0) # 創建一個新的linked list儲存已merge好的資料
         while left and right:
             if left.val < right.val:
                 cur.next = left
