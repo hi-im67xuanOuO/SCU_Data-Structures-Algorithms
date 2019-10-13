@@ -136,7 +136,6 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 #### 完整程式碼
 ```python
-#Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
          self.val = x
@@ -144,7 +143,6 @@ class ListNode:
 class Solution(object):
     def sortList(self, head: ListNode) -> ListNode:
         
-        #A intuitive solution but may be not constant space
         if not head or not head.next:
             return head #just like the array merge-sort
         # pre = ListNode(0) #use it to clear the rear half linked list
