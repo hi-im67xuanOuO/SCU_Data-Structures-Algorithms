@@ -13,14 +13,12 @@
 
 
 ## 簡介Quick_Sort
-快速排序法（Quick sort）運用到 Divide and conquer 的概念：先找一個基準點（key），然後派兩個代理人分別從資料的兩邊開始往中間找，如果右邊找到一個值比基準點小，左邊找到一個值比基準點大，就讓他們互換。反覆此動作直到兩個點相遇。然後再將相遇的點值與基準點互換，第一輪結束。如此重複遞迴(recursion)，把數列一分為二，直到最終完成排序。
+快速排序法（Quick sort）運用到 `Divide and conquer` 的概念：先找一個基準點（key），然後派兩個代理人分別從資料的兩邊開始往中間找，如果右邊找到一個值比基準點小，左邊找到一個值比基準點大，就讓他們互換。反覆此動作直到兩個點相遇。然後再將相遇的點值與基準點互換，第一輪結束。如此重複遞迴(recursion)，把數列一分為二，直到最終完成排序。
 
 * **時間複雜度(Time Complexity)**：
   * Best Case：Ο(nlogn)
   * Worst Case：Ο(nlogn)
   * Average Case：Ο(n^2)
-* **空間複雜度(Space Complexity)** ：
-* **穩定性(Stable/Unstable)** ：
 
 
 * 示意圖如下：
