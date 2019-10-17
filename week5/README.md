@@ -6,8 +6,8 @@
   * 流程圖一：[有使用額外空間版本](#有使用額外空間版本)
   * 流程圖二：[無使用額外空間版本](#無使用額外空間版本)
 * [影片觀念講解](#影片觀念講解)
-* [實例解說](#實例解說)
 * [處理步驟分解](#處理步驟分解)
+* [實例解說](#實例解說)
 * [基本程式語法](#基本程式語法)
   * coding實作一：[使用額外空間版本](#使用額外空間版本)
   * coding實作二：[無需額外空間版本](#無需額外空間版本)
@@ -67,6 +67,17 @@
    <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
 " target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
 alt="Quick Sort" width="720" height="540" border="10" /></a>
+
+
+* [～～返回目錄～～](#Contents)
+
+
+## 處理步驟分解
+1.  取第一個元素（最左的數）為鍵值 key
+2.  由左向右（前向後）找一個數（第一個滿足的），其值大於等於 key 值，該數之索引為 left_pivot
+3.  由右向左（後向前）找一個數（第一個滿足的），其值小於等於 key 值，該數之索引為 right_pivot
+4.  如果 left_pivot < right_pivot 則交換值，否則把 key 值與 right_pivot 值交換，以 right_pivot 為基準，分為左右兩數列
+5. 重複上述步驟排序左右兩個數列，直到完成排序
 
 
 * [～～返回目錄～～](#Contents)
@@ -138,17 +149,6 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 
    1　2　3　4　5　6　7　8　9　10
-
-
-* [～～返回目錄～～](#Contents)
-
-
-## 處理步驟分解
-1.  取第一個元素（最左的數）為鍵值 key
-2.  由左向右（前向後）找一個數（第一個滿足的），其值大於等於 key 值，該數之索引為 left_pivot
-3.  由右向左（後向前）找一個數（第一個滿足的），其值小於等於 key 值，該數之索引為 right_pivot
-4.  如果 left_pivot < right_pivot 則交換值，否則把 key 值與 right_pivot 值交換，以 right_pivot 為基準，分為左右兩數列
-5. 重複上述步驟排序左右兩個數列，直到完成排序
 
 
 * [～～返回目錄～～](#Contents)
