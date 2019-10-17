@@ -32,7 +32,7 @@
 > 圖片來源：[http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python](http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python)
 
 
-* [返回Contents](#Contents)
+* [～～返回目錄～～](#Contents)
 
 
 ## 流程圖
@@ -46,6 +46,10 @@
 > 程式碼實作：[使用額外空間版本](#使用額外空間版本)
 
 
+* [～～返回目錄～～](#Contents)
+
+
+
 ### 無使用額外空間版本：
 
 
@@ -56,10 +60,16 @@
 > 程式碼實作：[無需額外空間版本](#無需額外空間版本)
 
 
+* [～～返回目錄～～](#Contents)
+
+
 ## 影片觀念講解
    <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
 " target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
 alt="Quick Sort" width="720" height="540" border="10" /></a>
+
+
+* [～～返回目錄～～](#Contents)
 
 
 ## 實例解說
@@ -130,6 +140,7 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
    1　2　3　4　5　6　7　8　9　10
 
 
+* [～～返回目錄～～](#Contents)
 
 
 ## 處理步驟分解
@@ -139,6 +150,10 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 4.  如果 left_pivot < right_pivot 則交換值，否則把 key 值與 right_pivot 值交換，以 right_pivot 為基準，分為左右兩數列
 5. 重複上述步驟排序左右兩個數列，直到完成排序
 
+
+* [～～返回目錄～～](#Contents)
+
+
 ## 基本程式語法
 ### 使用額外空間版本：
 
@@ -147,11 +162,17 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 > 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
 
 
+* [～～返回目錄～～](#Contents)
+
+
 ### 無需額外空間版本：
 
 
 ![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort_%E7%84%A1%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort無使用額外空間")
 > 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+
+
+* [～～返回目錄～～](#Contents)
 
 
 ## Leetcode題目
@@ -198,6 +219,9 @@ class Solution(object):
                 cur.next = right
         return res.next
 ```
+
+
+* [～～返回目錄～～](#Contents)
 
 
 ## Reference
