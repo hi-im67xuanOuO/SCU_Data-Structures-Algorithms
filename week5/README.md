@@ -3,12 +3,14 @@
 ## Contents
 * [簡介Quick_Sort](#簡介Quick_Sort)
 * [流程圖](#流程圖)
-  * 流程圖一：[無使用額外空間版本](#無使用額外空間版本)
-  * 流程圖二：[有使用額外空間版本](#有使用額外空間版本)
+  * 流程圖一：[有使用額外空間版本](#有使用額外空間版本)
+  * 流程圖二：[無使用額外空間版本](#無使用額外空間版本)
 * [影片觀念講解](#影片觀念講解)
 * [實例解說](#實例解說)
 * [處理步驟分解](#處理步驟分解)
 * [基本程式語法](#基本程式語法)
+  * coding實作一：[使用額外空間版本](#使用額外空間版本)
+  * coding實作二：[無需額外空間版本](#無需額外空間版本)
 * [Leetcode題目](#Leetcode題目)
   * 課堂練習題目：[148_Sort_List](#148_Sort_List)
 * [Reference](#Reference)
@@ -31,18 +33,18 @@
 
 
 ## 流程圖
-### 無使用額外空間版本：
-
-
-![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
-> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
-
-
 ### 有使用額外空間版本：
 
 
 ![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png "Quick_Sort有使用額外空間")
 > 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png
+
+
+### 無使用額外空間版本：
+
+
+![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
+> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
 
 
 ## 影片觀念講解
@@ -129,14 +131,14 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 5. 重複上述步驟排序左右兩個數列，直到完成排序
 
 ## 基本程式語法
-* 有使用額外空間版本：
+### 使用額外空間版本：
 
 
 ![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort有使用額外空間")
 > 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
 
 
-* 無使用額外空間版本：
+### 無需額外空間版本：
 
 
 ![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort_%E7%84%A1%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort無使用額外空間")
