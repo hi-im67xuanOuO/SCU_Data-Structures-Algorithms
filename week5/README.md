@@ -2,14 +2,14 @@
 
 ## Contents
 * [簡介Quick_Sort](#簡介Quick_Sort)
-* [實例解說](#實例解說)
-* [影片觀念講解](#影片觀念講解)
 * [流程圖](#流程圖)
-  * [無使用額外空間版本](#無使用額外空間版本)
+  * 流程圖一：[無使用額外空間版本](#無使用額外空間版本)
+* [影片觀念講解](#影片觀念講解)
+* [實例解說](#實例解說)
 * [處理步驟分解](#處理步驟分解)
 * [基本程式語法](#基本程式語法)
 * [Leetcode題目](#Leetcode題目)
-  * [148_Sort_List](#148_Sort_List)
+  * 課堂練習題目：[148_Sort_List](#148_Sort_List)
 * [Reference](#Reference)
 
 
@@ -35,6 +35,12 @@
 
 ![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
 > 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
+
+
+## 影片觀念講解
+   <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
+" target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
+alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 
 ## 實例解說
@@ -106,10 +112,6 @@
 
 
 
-## 影片觀念講解
-   <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
-" target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
-alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 ## 處理步驟分解
 1.  取第一個元素（最左的數）為鍵值 key
