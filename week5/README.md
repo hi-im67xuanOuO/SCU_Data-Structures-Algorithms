@@ -1,11 +1,12 @@
-# week5 - Quick Sort
+# week5 - Quick Sort（作業一！！）
 
 ## Contents
 * [簡介Quick_Sort](#簡介Quick_Sort)
 * [實例解說](#實例解說)
 * [影片觀念講解](#影片觀念講解)
+* [流程圖](#流程圖)
+  * [無使用額外空間版本](#無使用額外空間版本)
 * [處理步驟分解](#處理步驟分解)
-* [實作概念](#實作概念)
 * [基本程式語法](#基本程式語法)
 * [Leetcode題目](#Leetcode題目)
   * [148_Sort_List](#148_Sort_List)
@@ -14,11 +15,6 @@
 
 ## 簡介Quick_Sort
 快速排序法（Quick sort）運用到 `Divide and conquer` 的概念：先找一個基準點（key），然後派兩個代理人分別從資料的兩邊開始往中間找，如果右邊找到一個值比基準點小，左邊找到一個值比基準點大，就讓他們互換。反覆此動作直到兩個點相遇。然後再將相遇的點值與基準點互換，第一輪結束。如此重複遞迴(recursion)，把數列一分為二，直到最終完成排序。
-
-* **時間複雜度(Time Complexity)**：
-  * Best Case：Ο(nlogn)
-  * Worst Case：Ο(nlogn)
-  * Average Case：Ο(n^2)
 
 
 * 示意圖如下：
@@ -31,6 +27,14 @@
 
 
 > 圖片來源：[http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python](http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python)
+
+
+## 流程圖
+### 無使用額外空間版本：
+
+
+![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
+> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
 
 
 ## 實例解說
