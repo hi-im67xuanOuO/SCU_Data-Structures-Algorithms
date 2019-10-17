@@ -1,5 +1,6 @@
 # 108_1 資料結構與演算法
 # Contents
+
 ## Part 1 課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
 * **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
