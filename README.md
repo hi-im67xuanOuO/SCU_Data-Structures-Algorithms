@@ -17,7 +17,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
     * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
 * **Week5**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)（**作業一！！**）
     * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
-* **Week6**：
+* **Week6**：[Heap Sort] （進行中，待補充）
 
 ## Part 2 自主練習
 * [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/codesignal%20-%20intro)
