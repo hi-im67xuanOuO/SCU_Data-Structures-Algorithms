@@ -1,5 +1,6 @@
 # 108_1 資料結構與演算法
 # Contents
+## 第一次作業傳送門：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)
 
 ## Part 1 課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
