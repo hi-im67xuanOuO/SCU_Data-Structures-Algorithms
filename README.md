@@ -1,7 +1,7 @@
 # 108_1 資料結構與演算法
 Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆記，以及課餘時間的學習歷程紀錄，歡迎大家參考交流哦！
 # Contents
-## 第一次作業傳送門：[作業一：Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)
+## 第一次作業傳送門：[作業一：Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW1)
 
 ## Part 1 課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
@@ -15,7 +15,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week4**：[Set](https://github.com/chinghsuan/class_exercises/tree/master/week4)、[Insertion Sort](https://github.com/chinghsuan/class_exercises/tree/master/week4)
     * 課堂練習題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
     * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
-* **Week5**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/week5)（**作業一！！**）
+* **Week5**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW1)（**作業一！！**）
     * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week6**：[Heap Sort](#Heap_Sort) （進行中，待補充）
 
