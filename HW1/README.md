@@ -99,8 +99,8 @@
 ### 有使用額外空間版本：
 
 
-![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png "Quick_Sort有使用額外空間")
-> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png
+![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png "Quick_Sort有使用額外空間")
+> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%BA%8C%EF%BC%9A%E5%89%B5%E9%80%A0%E6%96%B0%E7%A9%BA%E9%96%93%E6%9A%AB%E5%AD%98%E7%89%88%E6%9C%AC.png
 
 
 > 程式碼實作：[使用額外空間版本](#使用額外空間版本)
@@ -113,8 +113,8 @@
 ### 無使用額外空間版本：
 
 
-![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
-> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
+![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png "Quick_Sort無使用額外空間")
+> 放大圖片連結：https://github.com/chinghsuan/class_exercises/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96%E4%B8%80%EF%BC%9Aplace-in%E7%89%88%E6%9C%AC.png
 
 
 > 程式碼實作：[無需額外空間版本](#無需額外空間版本)
