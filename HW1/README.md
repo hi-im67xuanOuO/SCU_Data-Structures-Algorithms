@@ -8,9 +8,9 @@
 * [流程圖](#流程圖)
   * 流程圖一：[有使用額外空間版本](#有使用額外空間版本)
   * 流程圖二：[無使用額外空間版本](#無使用額外空間版本)
-* [影片觀念講解](#影片觀念講解)
 * [Leetcode題目](#Leetcode題目)
   * 課堂練習題目：[148_Sort_List](#148_Sort_List)
+* [影片觀念講解](#影片觀念講解)
 * [Reference](#Reference)
 
 
@@ -127,16 +127,6 @@
 * [～～返回目錄～～](#Contents)
 
 
-## 影片觀念講解
-   <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
-" target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
-alt="Quick Sort" width="720" height="540" border="10" /></a>
-
-
-* [～～返回目錄～～](#Contents)
-
-
-
 ## Leetcode題目
 ### 148_Sort_List
 > 題目：[Leetcode 148.Sort_List](https://leetcode.com/problems/sort-list/)
@@ -181,6 +171,15 @@ class Solution(object):
                 cur.next = right
         return res.next
 ```
+
+
+* [～～返回目錄～～](#Contents)
+
+
+## 影片觀念講解
+   <a href="https://www.youtube.com/watch?v=0Ds3KqYeXzA
+" target="_blank"><img src="http://img.youtube.com/vi/0Ds3KqYeXzA/0.jpg" 
+alt="Quick Sort" width="720" height="540" border="10" /></a>
 
 
 * [～～返回目錄～～](#Contents)
