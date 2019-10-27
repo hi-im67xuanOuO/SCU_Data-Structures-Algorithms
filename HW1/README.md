@@ -139,7 +139,6 @@ class Solution(object):
         
         if not head or not head.next:
             return head
-        # pre = ListNode(0) #use it to clear the rear half linked list
         slow = fast = head # 找到中心點
         while fast and fast.next:
             pre = slow
