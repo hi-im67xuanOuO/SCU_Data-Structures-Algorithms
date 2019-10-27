@@ -81,7 +81,7 @@
 ### 使用額外空間版本：
 
 
-> 我的程式碼連結（改寫版本與解說歷程）：https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+> 我的程式碼連結（改寫版本與解說歷程）：[使用額外空間版本（內有兩種自己改寫的方法與歷程）](https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb)
 
 
 * [～～返回目錄～～](#Contents)
@@ -90,7 +90,8 @@
 ### 無需額外空間版本：
 
 
-> 我的程式碼連結（改寫版本與解說歷程）：https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+> 我的程式碼連結（改寫版本與解說歷程）：[無需額外空間版本（內有一種自己改寫的方法與歷程）](https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+)
 
 
 * [～～返回目錄～～](#Contents)
