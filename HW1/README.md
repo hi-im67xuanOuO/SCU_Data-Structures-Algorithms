@@ -185,8 +185,6 @@ alt="Quick Sort" width="720" height="540" border="10" /></a>
 * [http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python](http://jialin128.pixnet.net/blog/post/142927691-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88quick-sort%EF%BC%89in-python)	
 
 
-* [https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR](https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR)
-
 
 * [https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html)
 
