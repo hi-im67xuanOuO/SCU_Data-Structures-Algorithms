@@ -2,7 +2,7 @@
 
 ## Contents
 * [簡介Quick_Sort與舉例說明](#簡介Quick_Sort與舉例說明)
-* [基本程式語法](#基本程式語法)
+* [程式碼與解說](#程式碼與解說)
   * coding實作一：[使用額外空間版本](#使用額外空間版本)
   * coding實作二：[無需額外空間版本](#無需額外空間版本)
 * [流程圖](#流程圖)
@@ -77,12 +77,11 @@
 * [～～返回目錄～～](#Contents)
 
 
-## 基本程式語法
+## 程式碼與解說
 ### 使用額外空間版本：
 
 
-![Quick_Sort有使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort有使用額外空間")
-> 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+> 我的程式碼連結（改寫版本與解說歷程）：https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort_%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
 
 
 * [～～返回目錄～～](#Contents)
@@ -91,8 +90,7 @@
 ### 無需額外空間版本：
 
 
-![Quick_Sort無使用額外空間](https://github.com/chinghsuan/class_exercises/blob/master/img/Quick_Sort_%E7%84%A1%E4%BD%BF%E7%94%A8%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.png "Quick_Sort無使用額外空間")
-> 完整程式碼連結：https://github.com/chinghsuan/class_exercises/blob/master/week5/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
+> 我的程式碼連結（改寫版本與解說歷程）：https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort%E7%84%A1%E9%A1%8D%E5%A4%96%E7%A9%BA%E9%96%93.ipynb
 
 
 * [～～返回目錄～～](#Contents)
