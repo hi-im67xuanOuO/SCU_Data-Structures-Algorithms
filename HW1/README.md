@@ -131,17 +131,19 @@
 #### 完整程式碼
 ```python
 class ListNode:
-    def __init__(self, x):
+    def __init__(self, x): # 定義好linked list的格式
          self.val = x
          self.next = None
 class Solution(object):
     def sortList(self, head: ListNode) -> ListNode:
-        
-        if not head or not head.next:
+      
+        if not head or not head.next: # 若head或head的下一個為空值，則直接return head
             return head
-        slow = fast = head # 找到中心點
+            
+        slow = fast = head # 找出中心點
+        
         while fast and fast.next:
-            pre = slow
+            pre = slow # pre暫存較左的點
             slow = slow.next
             fast = fast.next.next
         pre.next = None
