@@ -2,9 +2,9 @@
 
 ## Contents
 * [Heap_Sort學習歷程、文字描述、流程圖](https://github.com/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
-  * nbViewer版：[連結](https://nbviewer.jupyter.org/github/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)(若ipynb打不開請點這～)
+  * nbViewer版：[連結](https://nbviewer.jupyter.org/github/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb) (若ipynb打不開請點這～)
 * [Merge_Sort學習歷程、文字描述、流程圖](https://github.com/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
-  * nbViewer版：[連結](https://nbviewer.jupyter.org/github/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)(若ipynb打不開請點這～)
+  * nbViewer版：[連結](https://nbviewer.jupyter.org/github/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb) (若ipynb打不開請點這～)
 * [Heap_Sort與Merge_Sort的比較](#Heap_Sort與Merge_Sort的比較)
 * [Reference](#Reference)
 
