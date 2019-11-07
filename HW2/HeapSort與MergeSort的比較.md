@@ -12,7 +12,7 @@
 1. 可分為Max-Heap和Min-Heap
 2. 有insert與delete兩種操作方式
 3. 建立方式：a. Top-down b. Bottom-up(shiftdown)
-我的更多文字說明：[連結](#Heap_Sort與Merge_Sort的比較)
+我的更多文字說明：[連結](#https://github.com/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
 
 ## Merge_Sort簡介
 1. MergeSort是一種高效率、較穩定的演算法。  
