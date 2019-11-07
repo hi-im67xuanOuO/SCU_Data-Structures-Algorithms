@@ -34,4 +34,5 @@
 2. n 愈大，Merge所需的暫存空間就愈多，因此額外的空間需求與 n 成正比。
 
 ## Reference
-https://medium.com/@randerson112358/sorting-algorithms-6005e9ddd8c0
+https://medium.com/@randerson112358/sorting-algorithms-6005e9ddd8c0  
+http://notepad.yehyeh.net/Content/Algorithm/Sort/Heap/Heap.php
