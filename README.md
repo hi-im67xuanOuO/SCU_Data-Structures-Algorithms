@@ -1,7 +1,7 @@
 # 108_1 資料結構與演算法
 Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆記，以及課餘時間的學習歷程紀錄，歡迎大家參考交流哦！
 # Contents
-## 第一次作業傳送門：[作業一：Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW1)
+## 第二次作業傳送門：[作業二：Heap_Sort&Merge Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)
 
 ## Part 1 課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
