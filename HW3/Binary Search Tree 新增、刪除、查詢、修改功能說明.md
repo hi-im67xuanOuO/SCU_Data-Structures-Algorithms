@@ -1,5 +1,5 @@
 # HW3 - Binary Search Tree（作業三！！）
-學習歷程ipynb檔之nbViewer連結：https://nbviewer.jupyter.org/github/chinghsuan/class_exercises/blob/master/HW3/binary_search_tree_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81BST%E5%8E%9F%E7%90%86_06170203.ipynb（若ipynb檔打不開時請點這～）
+
 ## 功能說明
 ### `新增`：
 * **定義**：**`將指定的數值新增進入樹中`**。  
