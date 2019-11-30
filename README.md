@@ -37,6 +37,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/28.%20Implement%20strStr().py)
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/58.%20Length%20of%20Last%20Word.py)
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.py)
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/136.%20Single%20Number.py)
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/147.%20Insertion%20Sort%20List.py)
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
