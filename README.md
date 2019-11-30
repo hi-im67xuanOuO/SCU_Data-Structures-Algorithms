@@ -28,7 +28,8 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 ### Leetcode自我練習題目總覽
 |#|    Title   |My Solution|Difficulty|
 |---|-------------| ----- |------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/1.%20Two%20Sum.py)|```diff
++ Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/9.%20Palindrome%20Number.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/27.%20Remove%20Element.py)|Easy|
