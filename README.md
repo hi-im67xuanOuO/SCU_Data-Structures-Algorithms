@@ -37,13 +37,13 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/28.%20Implement%20strStr().py)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/58.%20Length%20of%20Last%20Word.py)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|Easy|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.py)|Easy|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/98.%20Validate%20Binary%20Search%20Tree.py)|Easy|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/99.%20Recover%20Binary%20Search%20Tree.py)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.py)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/98.%20Validate%20Binary%20Search%20Tree.py)|Medium|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/99.%20Recover%20Binary%20Search%20Tree.py)|Hard|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/108.%20Converted%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/136.%20Single%20Number.py)|Easy|
-|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/147.%20Insertion%20Sort%20List.py)|Easy|
-|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)|Easy|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/147.%20Insertion%20Sort%20List.py)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/155.%20Min%20Stack.py)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/169.%20Majority%20Element.py)|Easy|
 |206|[Reversed Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/206.%20Reversed%20Linked%20List.py)|Easy|
@@ -59,17 +59,17 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 |371|[Sum of Two Imtegers](https://leetcode.com/problems/sum-of-two-integers)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/371.%20Sum%20of%20Two%20Imtegers.py)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/441.%20Arranging%20Coins.py)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|Easy|
-|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/450.%20Delete%20Node%20in%20a%20BST.py)|Easy|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/450.%20Delete%20Node%20in%20a%20BST.py)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/509.%20Fibonacci%20Number.py)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/520.%20Detect%20Capital.py)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/557.%20Reverse%20Words%20in%20a%20String%20III.py)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/561.%20Array%20Partition%20I.py)|Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/645.%20Set%20Mismatch.py)|Easy|
-|655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/655.%20Print%20Binary%20Tree.py)|Easy|
+|655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/655.%20Print%20Binary%20Tree.py)|Medium|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/645.%20Set%20Mismatch.py)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|Easy|
-|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/701.%20Insert%20Into%20a%20Binary%20Search%20Tree.py)|Easy|
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/707.%20Design%20Linked%20List.py)|Easy|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/701.%20Insert%20Into%20a%20Binary%20Search%20Tree.py)|Medium|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/707.%20Design%20Linked%20List.py)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/709.%20To%20Lower%20Case.py)|Easy|
 |771|[Jewels and Stones.py](https://leetcode.com/problems/jewels-and-stones)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/771.%20Jewels%20and%20Stones.py)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/905.%20Sort%20Array%20By%20Parity.py)|Easy|
