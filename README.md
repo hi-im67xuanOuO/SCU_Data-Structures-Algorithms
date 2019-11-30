@@ -19,8 +19,8 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
     * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week6**：[Heap Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業二！！**）
 * **Week7**：[Merge Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業二！！**）
-* **Week8**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業三！！**）
-
+* **Week8**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
+* **Week9**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
 
 ## Part 2 自主練習
 * [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/codesignal%20-%20intro)
