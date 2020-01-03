@@ -31,7 +31,7 @@ class Graph():
                     distance[v]=distance[current]+self.graph[current][v] 
                     ans[str(v)] = distance[v] #更新新的路徑長到答案中
                 v+=1 #繼續計算下一個節點更新後的路徑長
-        print(ans)
+        return ans
     def find(self,parent,i): #尋找該節點的parent為何
         if parent[i] == i:
             return i
