@@ -97,6 +97,8 @@
 ```
 
 ## Reference
+https://www.youtube.com/watch?v=YxgI7ll4Xtg  
+http://cdn.cs50.net/2013/fall/lectures/3/w/week3w.pdf  
 https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6  
 https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F  
 https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F  
