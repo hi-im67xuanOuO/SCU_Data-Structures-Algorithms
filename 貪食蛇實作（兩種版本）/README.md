@@ -8,7 +8,7 @@
 ### 筆記與影片連結總覽
 |week|    課程名稱與時間   |我的筆記|影片連結 (Youtube)|
 |---|-------------| ----- |------|
-|0|Week0-Wednesday|[week0-筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結-Week0-Wednesday](https://www.youtube.com/watch?v=79gAss0K1TI)
+|0|Week0-Wednesday|[week0-筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結 - Week0-Wednesday](https://www.youtube.com/watch?v=79gAss0K1TI)
 |0|Week0-Friday|-|[CS50影片連結 - Week0-Friday](http://cs50.tv/2013/fall/lectures/0/f/week0f-1080p.mp4)
 |3|Week3-Monday|-|[CS50影片連結 - Week3-Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
 |3|Week3-Wednesday|-|[CS50影片連結 - Week3-Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
