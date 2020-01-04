@@ -2,7 +2,7 @@
 
 ## Contents
 * [簡介二進位制與文字編碼](#簡介二進位制與文字編碼)
-* [簡介二進位制與文字編碼](#簡介二進位制與文字編碼)
+* [演算法Algorithms](#演算法Algorithms)
 * [Reference](#Reference)
 
 
@@ -17,23 +17,6 @@
 
 
 
-
-### Heap_Sort
-1. 可分為Max-Heap和Min-Heap
-2. 有insert與delete兩種操作方式
-3. 建立方式：a. Top-down b. Bottom-up(shiftdown)  
-我的更多文字說明：[連結](https://github.com/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
-
-
-### 時間複雜度與空間複雜度比較：
-
-| 排序方法 | Worst complexity  | Average complexity | Best complexity | Space complexity | Stable 
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ 
-| Heap Sort      | nlog(n) | nlog(n)  | nlog(n) | 1 | No 
-| Merge Sort      | nlog(n)  | nlog(n) | nlog(n) | n | Yes 
-
-
 ## Reference
-https://medium.com/@randerson112358/sorting-algorithms-6005e9ddd8c0  
-http://notepad.yehyeh.net/Content/Algorithm/Sort/Heap/Heap.php
-
+https://www.youtube.com/watch?v=79gAss0K1TIhttp://notepad.yehyeh.net/Content/Algorithm/Sort/Heap/Heap.php  
+http://cdn.cs50.net/2013/fall/lectures/0/w/week0w.pdf  
