@@ -4,6 +4,8 @@
 * [演算法的時間複雜度(Time Complexity)](#演算法的時間複雜度Time_Complexity)
 * [Sorting排序](#Sorting排序)
   * [Bubble Sort](#Bubble_Sort)
+  * [Selection Sort](#Selection_Sort)
+  * [Insertion Sort](#Insertion_Sort)
 * [Reference](#Reference)
 
 
@@ -25,6 +27,9 @@ n代表資料量大小，N表示時間。
 當資料被有效的排序後，可以加速我們處理資料的效率。從week0的電話簿例子中就可以發現，若排序資料可協助我們直接更有效率的推測出特定資料所在的位置。所以接下來介紹幾種排序方式：  
 
 ### Bubble_Sort
+### Selection_Sort
+### Insertion_Sort
+
 
 ## Reference
 https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6  
