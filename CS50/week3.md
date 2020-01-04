@@ -2,11 +2,11 @@
 
 ## Contents
 * [演算法的時間複雜度(Time Complexity)](#演算法的時間複雜度Time_Complexity)
+* [O與Ω符號](#O與Ω符號)
 * [Sorting排序](#Sorting排序)
   * [Bubble Sort](#Bubble_Sort)
   * [Selection Sort](#Selection_Sort)
   * [Insertion Sort](#Insertion_Sort)
-* [O與Ω符號](#O與Ω符號)
 * [Reference](#Reference)
 
 
@@ -24,6 +24,11 @@
 ```
 橫軸為n，代表資料量大小；y軸表示時間。  
 ```
+
+
+## O與Ω符號
+* **O符號**：表示**最壞情況下的運行時間**。
+* **Ω符號**：表示**最佳情況下的運行時間**。
 
 
 ## Sorting排序
@@ -90,11 +95,6 @@
 1 2 3 4 5 6 / 7  
 1 2 3 4 5 6 7 /  
 ```
-
-## O與Ω符號
-* **O符號**：表示**最壞情況下的運行時間**。
-* **Ω符號**：表示**最佳情況下的運行時間**。
-
 
 ## Reference
 https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6  
