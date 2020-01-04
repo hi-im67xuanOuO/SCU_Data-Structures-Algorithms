@@ -20,7 +20,7 @@
 ![image](http://cdn.cs50.net/2013/fall/lectures/3/w/notes3w/worse_runtimes.png)  
 
 ```
-n代表資料量大小，N表示時間。  
+橫軸為n，代表資料量大小；y軸表示時間。  
 ```
 
 ## Sorting排序
