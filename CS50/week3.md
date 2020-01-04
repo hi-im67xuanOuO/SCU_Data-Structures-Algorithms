@@ -1,13 +1,13 @@
 # CS50 - Week3
 
 ## Contents
-* [演算法的時間複雜度(Time_Complexity)](#演算法的時間複雜度(Time_Complexity))
+* [演算法的時間複雜度(Time Complexity)](#演算法的時間複雜度Time_Complexity)
 * [Sorting排序](#Sorting排序)
   * [Bubble Sort](#Bubble_Sort)
 * [Reference](#Reference)
 
 
-## 演算法的時間複雜度(Time_Complexity)
+## 演算法的時間複雜度Time_Complexity
 * **時間複雜度？**：一個函式，它定性描述該演算法的執行時間。這是一個代表演算法輸入值的字串的長度的函式。時間複雜度常用大O符號表述。
   * 相同大小的不同輸入值仍可能造成演算法的執行時間不同，因此我們通常使用演算法的**最壞情況複雜度**。
   * **平均情況複雜度**，通常較少使用，通常有特別指定才會使用。
