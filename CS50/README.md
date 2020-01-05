@@ -11,7 +11,7 @@
 * **week4**：Merge Sort、證明時間複雜度、Recursion遞迴
 * **week5**：Stack、Heap、關於圖片的存儲
 * **week7**：Linked List、Hash Table、線性探測Linear Probing、衝突、單獨鍊表法
-* **week8**：
+* **week8**：Stacks、Queues、Binary Search Trees
 
 
 ## 筆記與影片連結總覽
