@@ -2,7 +2,7 @@
 Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆記，以及課餘時間的學習歷程紀錄，歡迎大家參考交流哦！
 # Contents
 ## Part 1 課堂筆記
-* **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)
+* **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
 * **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
     * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
     * 課堂練習題目：[Leetcode 707.Design Linked List（解法一）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%B8%80%EF%BC%89.py)
