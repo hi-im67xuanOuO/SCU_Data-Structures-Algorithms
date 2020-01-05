@@ -68,6 +68,15 @@
 
 
 ## Binary_Search_Trees
+* **Binary Search Trees**：  
+一種特殊類型的二進制樹，也稱為**有序二元樹**（ordered binary tree）或**排序二元樹**（sorted binary tree）。節點之left child小於該節點，而right child大於該節點。簡化了搜尋的方法與邏輯。
+
+* **示意圖**：
+
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/150px-Binary_search_tree.svg.png)  
+> 圖片來源：https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9   
+
 
 ## Reference
 http://www.youtube.com/watch?v=9qvt6MwBKZQ  
