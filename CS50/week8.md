@@ -8,7 +8,7 @@
 * [Reference](#Reference)
 
 
-### Stacks
+## Stacks
 * **Stacks**：  
 具有「Last-In-First-Out」的資料結構，「最晚進入Stack」的資料會「最先被取出」。
 * **優點**：
@@ -35,7 +35,7 @@
   5. 記憶體管理中的Call Stack
 
 
-### Queues
+## Queues
 * **Queues**：  
 具有「First-In-First-Out」的資料結構，如同排隊買車票的隊伍即可視為Queue，先進入隊伍的人，可以優先離開隊伍，走向售票窗口買票，而後到的人，就需要等隊伍前面的人都買完票後才能買。
 * **示意圖**：
@@ -56,11 +56,22 @@
 * **應用**：
   1. 作業系統：被多個程式共享的資源(例如CPU、印表機、網站伺服器)，一次只能執行一個需求(例如request、interrupt)，因此需要有個Queue來安排多個程式的執行順序(例如device queue、job queue)
   
-### Trees
-### Binary_Search_Trees
+## Trees
+* **Trees**：  
+一棵樹由0個或多個節點組成。如果至少有一個節點，則稱為**根**。每個節點可以有0個或更多的孩子（child)。有0個孩子的節點稱為**葉子**。
+
+* **示意圖**：
+
+
+![image](http://cdn.cs50.net/2013/fall/lectures/8/m/notes8m/tree.png)  
+> 圖片來源：http://cdn.cs50.net/2013/fall/lectures/8/m/week8m.pdf    
+
+
+## Binary_Search_Trees
 
 ## Reference
 http://www.youtube.com/watch?v=9qvt6MwBKZQ  
 http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html  
+http://cdn.cs50.net/2013/fall/lectures/8/m/week8m.pdf  
 https://www.youtube.com/watch?v=ihmHDZKOkA8  
 https://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html  
