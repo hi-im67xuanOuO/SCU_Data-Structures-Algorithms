@@ -4,7 +4,6 @@
 * [Merge Sort](#Merge_Sort)
 * [證明合併排序法的時間複雜度](#證明合併排序法的時間複雜度)
 * [Recursion遞迴](#Recursion遞迴)
-
 * [Reference](#Reference)
 
 
