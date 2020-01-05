@@ -5,6 +5,7 @@
 * [Heap](#Heap)
 * [Stack與Heap的示意圖](#Stack與Heap的示意圖)
 * [Stack與Heap的比較](#Stack與Heap的比較)
+* [關於圖片的存儲](#關於圖片的存儲)
 * [Reference](#Reference)
 
 
@@ -37,6 +38,11 @@
   * 無法保證有效利用空間，隨著時間的推移，內存塊可能會隨著內存塊的分配而碎片化，然後釋放
   * 必須管理內存（分配和釋放變量）
   * 變量可以使用 realloc()
+  
+  
+### 關於圖片的存儲
+存儲圖片有許多不同的格式可以選擇。其中一種選擇是**bitmap（BMP）**，  
+這種格式使用0表示黑色，1表示白色，因此一系列的0與1數列可以存儲黑白圖像。  
 
 ## Reference
 http://www.youtube.com/watch?v=IEuvKVjw2oM  
