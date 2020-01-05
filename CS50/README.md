@@ -6,11 +6,11 @@
 
 ## 自學課程總覽與內容大綱
 > 課程連結：[CS50（2013年）](http://cs50.tv/2013/fall/)
-* **week0**：
-* **week3**：
-* **week4**：
-* **week5**：
-* **week7**：
+* **week0**：簡介二進位制、文字編碼、演算法Algorithms、Pseudocode
+* **week3**：演算法的時間複雜度Time Complexity、O與Ω符號、Bubble Sort、Selection Sort、Insertion Sort
+* **week4**：Merge Sort、證明時間複雜度、Recursion遞迴
+* **week5**：Stack、Heap、關於圖片的存儲
+* **week7**：Linked List、Hash Table、線性探測Linear Probing、衝突、單獨鍊表法
 * **week8**：
 
 
