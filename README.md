@@ -40,10 +40,10 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week9**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
 * **Week10**：Red Black Tree
 * **Week11**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
-* **Week12**：BFS
-* **Week13**：DFS
-* **Week14**：MST
-* **Week15**：Shortest Path
+* **Week12**：[BFS](https://github.com/chinghsuan/class_exercises/tree/master/HW5)（**作業五！！**）
+* **Week13**：[DFS](https://github.com/chinghsuan/class_exercises/tree/master/HW5)（**作業五！！**）
+* **Week14**：[MST](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
+* **Week15**：[Shortest Path](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
 * **Week16**：OverView
 
 ## Part2自學與自主練習部分
