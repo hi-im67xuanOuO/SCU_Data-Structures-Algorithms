@@ -73,12 +73,11 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 |7|Week7 - Wednesday|[week7 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week7.md)|[CS50影片連結 - Week7 - Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
 |8|Week8 - Monday|[week8 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week8.md)|[CS50影片連結 - Week8 - Monday](http://www.youtube.com/watch?v=9qvt6MwBKZQ)
 |8|Week8 - Wednesday|[week8 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week8.md)|[CS50影片連結 - Week8 - Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
-* [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
-* [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
-* [Leetcode自我練習](https://github.com/chinghsuan/class_exercises/tree/master/Leetcode)
+
 
 ### Codesignal自主練習
-* [Codesignal - 含intro與python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
+* [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
+* [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 
 
 ### Leetcode自我練習題目總覽
