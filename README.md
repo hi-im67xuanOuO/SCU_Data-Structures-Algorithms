@@ -17,6 +17,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
    * [Leetcode自我練習題目總覽](#Leetcode自我練習題目總覽)
 * [Part3其他作品](#Part3其他作品)
    * [貪食蛇實作](#貪食蛇實作)（建議使用Chrome瀏覽器開啟）
+* [Part4修課心得](#Part4修課心得)
 
 ## Part1課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
@@ -132,3 +133,4 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * [貪食蛇-鍵盤控制版本](https://github.com/chinghsuan/class_exercises/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%AF%A6%E4%BD%9C%EF%BC%88%E5%85%A9%E7%A8%AE%E7%89%88%E6%9C%AC%EF%BC%89/snake%EF%BC%88%E9%8D%B5%E7%9B%A4%E6%8E%A7%E5%88%B6%E7%89%88%E6%9C%AC%EF%BC%89.html)
 * [貪食蛇-攝像頭影像辨識版本](https://github.com/chinghsuan/class_exercises/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%AF%A6%E4%BD%9C%EF%BC%88%E5%85%A9%E7%A8%AE%E7%89%88%E6%9C%AC%EF%BC%89/snake%EF%BC%88%E6%94%9D%E5%83%8F%E9%A0%AD%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98%E7%89%88%E6%9C%AC%EF%BC%89.html)
 
+## Part4修課心得
