@@ -45,6 +45,8 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week14**：[MST](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
 * **Week15**：[Shortest Path](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
 * **Week16**：OverView
+* **Week17**：期末考週筆試
+* **Week18**：停課一次
 
 ## Part2自學與自主練習部分
 ### CS50課程
