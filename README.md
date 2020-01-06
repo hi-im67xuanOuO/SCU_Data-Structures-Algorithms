@@ -22,10 +22,18 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 
 ## Part 2 自學與自主練習部分
 * [CS50課程](#https://github.com/chinghsuan/class_exercises/tree/master/CS50)
-|week|    課程名稱與時間   |大綱|我的筆記|影片連結 (Youtube)|
+> 課程連結：[CS50（2013年）](http://cs50.tv/2013/fall/)
+* **week0**：簡介二進位制、文字編碼、演算法Algorithms、Pseudocode
+* **week3**：演算法的時間複雜度Time Complexity、O與Ω符號、Bubble Sort、Selection Sort、Insertion Sort
+* **week4**：Merge Sort、證明時間複雜度、Recursion遞迴
+* **week5**：Stack、Heap、關於圖片的存儲
+* **week7**：Linked List、Hash Table、線性探測Linear Probing、衝突、單獨鍊表法
+* **week8**：Stacks、Queues、Binary Search Trees
+
+|week|    課程名稱與時間   |我的筆記|影片連結 (Youtube)|
 |---|-------------| ----- |------|
-|0|Week0|[week0 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結 - Week0 - Wednesday](https://www.youtube.com/watch?v=79gAss0K1TI)  [CS50影片連結 - Week0 - Friday](http://cs50.tv/2013/fall/lectures/0/f/week0f-1080p.mp4
-|0|Week0|[week0 - 筆記]()
+|0|Week0 - Wednesday|[week0 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結 - Week0 - Wednesday](https://www.youtube.com/watch?v=79gAss0K1TI)
+|0|Week0 - Friday|[week0 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結 - Week0 - Friday](http://cs50.tv/2013/fall/lectures/0/f/week0f-1080p.mp4)
 |3|Week3 - Monday|[week3 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week3.md)|[CS50影片連結 - Week3 - Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
 |3|Week3 - Wednesday|[week3 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week3.md)|[CS50影片連結 - Week3 - Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
 |4|Week4 - Monday|[week4 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week4.md)|[CS50影片連結 - Week4 - Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
