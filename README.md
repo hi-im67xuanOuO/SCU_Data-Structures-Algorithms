@@ -7,7 +7,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 - **主修學系**：Big Data Management（巨量資料管理）
 - **常用程式語言**：Python、R、PHP
 - **Email**: chinghsuan86@gmail.com
-
+<div align=right>![我的照片](https://github.com/chinghsuan/class_exercises/blob/master/img/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87.jpg)
 
 # Contents
 ## Part 1 課堂筆記
