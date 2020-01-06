@@ -13,7 +13,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * [Part1課堂筆記](#Part1課堂筆記)（這裡包含1~18週的連結）
 * [Part2自學與自主練習部分](#Part2自學與自主練習部分)
    * [CS50課程](#CS50課程)
-   * [codesignal自主練習](#codesignal自主練習)
+   * [Codesignal自主練習](#Codesignal自主練習)
    * [Leetcode自我練習題目總覽](#Leetcode自我練習題目總覽)
 * [Part3其他作品](#Part3其他作品)
    * [貪食蛇實作](#貪食蛇實作)（建議使用Chrome瀏覽器開啟）
@@ -66,8 +66,8 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 * [Leetcode自我練習](https://github.com/chinghsuan/class_exercises/tree/master/Leetcode)
 
-### codesignal自主練習
-* [codesignal - 含intro與python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
+### Codesignal自主練習
+* [Codesignal - 含intro與python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 
 
 ### Leetcode自我練習題目總覽
