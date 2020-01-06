@@ -16,7 +16,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
    * [codesignal自主練習](#codesignal自主練習)
    * [Leetcode自我練習題目總覽](#Leetcode自我練習題目總覽)
 * [Part3其他作品](#Part3其他作品)
-   * [貪食蛇實作](#貪食蛇實作)
+   * [貪食蛇實作（建議使用Chrome瀏覽器開啟）](#貪食蛇實作（建議使用Chrome瀏覽器開啟）)
 
 ## Part1課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
