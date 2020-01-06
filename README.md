@@ -1,7 +1,7 @@
 # 108_1 資料結構與演算法
 Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆記，以及課餘時間的學習歷程紀錄，歡迎大家參考交流哦！
 
-## About me <img src="https://github.com/chinghsuan/class_exercises/blob/master/img/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87.jpg" width = "240" height = "3" div align=right />
+## About me <img src="https://github.com/chinghsuan/class_exercises/blob/master/img/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87.jpg" width = "240" height = "320" div align=right />
 - **姓名**：劉謦瑄
 - **學校**：Soochow University（東吳大學）
 - **主修學系**：Big Data Management（巨量資料管理）
