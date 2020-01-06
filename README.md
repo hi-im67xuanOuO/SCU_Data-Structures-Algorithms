@@ -20,7 +20,22 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week8**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
 * **Week9**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
 
-## Part 2 自主練習
+## Part 2 自學與自主練習部分
+* [CS50課程](#https://github.com/chinghsuan/class_exercises/tree/master/CS50)
+|week|    課程名稱與時間   |大綱|我的筆記|影片連結 (Youtube)|
+|---|-------------| ----- |------|
+|0|Week0|[week0 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week0.md)|[CS50影片連結 - Week0 - Wednesday](https://www.youtube.com/watch?v=79gAss0K1TI)  [CS50影片連結 - Week0 - Friday](http://cs50.tv/2013/fall/lectures/0/f/week0f-1080p.mp4
+|0|Week0|[week0 - 筆記]()
+|3|Week3 - Monday|[week3 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week3.md)|[CS50影片連結 - Week3 - Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
+|3|Week3 - Wednesday|[week3 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week3.md)|[CS50影片連結 - Week3 - Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
+|4|Week4 - Monday|[week4 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week4.md)|[CS50影片連結 - Week4 - Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
+|4|Week4 - Wednesday|[week4 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week4.md)|[CS50影片連結 - Week4 - Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
+|5|Week5 - Monday|[week5 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week5.md)|[CS50影片連結 - Week5 - Monday](http://www.youtube.com/watch?v=IEuvKVjw2oM)
+|5|Week5 - Wednesday|[week5 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week5.md)|[CS50影片連結 - Week5 - Wednesday](http://www.youtube.com/watch?v=atBMLJdSKBo)
+|7|Week7 - Monday|[week7 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week7.md)|[CS50影片連結 - Week7 - Monday](http://www.youtube.com/watch?v=RUAsmwYC2mc)
+|7|Week7 - Wednesday|[week7 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week7.md)|[CS50影片連結 - Week7 - Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
+|8|Week8 - Monday|[week8 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week8.md)|[CS50影片連結 - Week8 - Monday](http://www.youtube.com/watch?v=9qvt6MwBKZQ)
+|8|Week8 - Wednesday|[week8 - 筆記](https://github.com/chinghsuan/class_exercises/blob/master/CS50/week8.md)|[CS50影片連結 - Week8 - Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
 * [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 * [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 * [Leetcode自我練習](https://github.com/chinghsuan/class_exercises/tree/master/Leetcode)
