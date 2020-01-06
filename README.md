@@ -10,7 +10,15 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 
 
 # Contents
-## Part 1 課堂筆記
+* [Part1課堂筆記](#Part1課堂筆記)（這裡包含1~18週的連結）
+* [Part2自學與自主練習部分](#Part2自學與自主練習部分)
+   * [CS50課程](#CS50課程)
+   * [codesignal自主練習](#codesignal自主練習)
+   * [Leetcode自我練習題目總覽](#Leetcode自我練習題目總覽)
+* [Part3其他作品](#Part3其他作品)
+   * [貪食蛇實作](#貪食蛇實作)
+
+## Part1課堂筆記
 * **Week1**：[Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
 * **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
     * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
@@ -29,9 +37,10 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week8**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
 * **Week9**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
 
-## Part 2 自學與自主練習部分
-* [CS50課程](#https://github.com/chinghsuan/class_exercises/tree/master/CS50)
+## Part2自學與自主練習部分
+### CS50課程
 > 課程連結：[CS50（2013年）](http://cs50.tv/2013/fall/)
+> 筆記連結：[我的筆記](https://github.com/chinghsuan/class_exercises/tree/master/CS50)
 * **week0**：簡介二進位制、文字編碼、演算法Algorithms、Pseudocode
 * **week3**：演算法的時間複雜度Time Complexity、O與Ω符號、Bubble Sort、Selection Sort、Insertion Sort
 * **week4**：Merge Sort、證明時間複雜度、Recursion遞迴
@@ -56,6 +65,9 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * [codesignal-intro](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 * [codesignal-python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 * [Leetcode自我練習](https://github.com/chinghsuan/class_exercises/tree/master/Leetcode)
+
+### codesignal自主練習
+* [codesignal - 含intro與python](https://github.com/chinghsuan/class_exercises/tree/master/Codesignal)
 
 
 ### Leetcode自我練習題目總覽
@@ -114,7 +126,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode%E8%87%AA%E6%88%91%E7%B7%B4%E7%BF%92/1207.%20Unique%20Number%20of%20Occurrences.py)|Easy|
 
 
-## Part 3 其他
+## Part3其他作品
 ### 貪食蛇實作（建議使用Chrome瀏覽器開啟）
 * [貪食蛇-鍵盤控制版本](https://github.com/chinghsuan/class_exercises/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%AF%A6%E4%BD%9C%EF%BC%88%E5%85%A9%E7%A8%AE%E7%89%88%E6%9C%AC%EF%BC%89/snake%EF%BC%88%E9%8D%B5%E7%9B%A4%E6%8E%A7%E5%88%B6%E7%89%88%E6%9C%AC%EF%BC%89.html)
 * [貪食蛇-攝像頭影像辨識版本](https://github.com/chinghsuan/class_exercises/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%AF%A6%E4%BD%9C%EF%BC%88%E5%85%A9%E7%A8%AE%E7%89%88%E6%9C%AC%EF%BC%89/snake%EF%BC%88%E6%94%9D%E5%83%8F%E9%A0%AD%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98%E7%89%88%E6%9C%AC%EF%BC%89.html)
