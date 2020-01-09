@@ -29,7 +29,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
   * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
   * 課堂練習題目：[Leetcode 707.Design Linked List（解法一）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%B8%80%EF%BC%89.py)
   * 課堂練習題目：[Leetcode 707.Design Linked List（解法二）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%BA%8C%EF%BC%89.py)
-* **Week3**：[Stack & Queue](https://github.com/chinghsuan/class_exercises/tree/master/week3)
+### **Week3**：[Stack & Queue](https://github.com/chinghsuan/class_exercises/tree/master/week3)
 > 學習Stack和Queue的差別
   * 我的Stack & Queue筆記：[我的Stack & Queue筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW3/README.md)
   * 課堂練習題目：[155.Min_Stack](https://github.com/chinghsuan/class_exercises/blob/master/week3/155.%20Min%20Stack.py)
