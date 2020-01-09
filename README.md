@@ -42,14 +42,37 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
   * 我的QuickSort程式碼：[我的QuickSort程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW1/06170203_quicksort.py)
   * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week7**：[Heap Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)、[Merge Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業二！！**）
+  * 我的Heap Sort筆記：[我的Heap Sort筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW2/HeapSort%E8%88%87MergeSort%E7%9A%84%E6%AF%94%E8%BC%83.md)
+  * 我的Heap Sort學習歷程：[我的Heap Sort學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
+  * 我的Heap Sort程式碼：[我的Heap Sort程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW2/heap_sort_06170203.py)
+  * 我的Merge Sort筆記：[我的Merge Sort筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW2/HeapSort%E8%88%87MergeSort%E7%9A%84%E6%AF%94%E8%BC%83.md)
+  * 我的Merge Sort學習歷程：[我的Merge Sort學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203_%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%EF%BC%88%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%89.ipynb)
+  * 我的Merge Sort程式碼：[我的Merge Sort程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203.py)
 * **Week8**：Binary Tree
 * **Week9**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
+  * 我的Binary_Search_Tree筆記：[我的Binary_Search_Tree筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
+  * 我的Binary_Search_Tree學習歷程：[我的Binary_Search_Tree學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW3/binary_search_tree_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81BST%E5%8E%9F%E7%90%86_06170203.ipynb)
 * **Week10**：Red Black Tree
 * **Week11**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
+  * 我的Hash Table+MD5筆記：[我的Hash Table+MD5筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW4/README.md)
+  * 我的Hash Table+MD5學習歷程：[我的Hash Table+MD5學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW4/hash_table_%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E8%88%87%E6%AD%B7%E7%A8%8B_06170203.ipynb)
+  * 我的Hash Table+MD5程式碼：[我的Hash Table+MD5程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW4/hash_table_06170203.py)
 * **Week12**：[BFS](https://github.com/chinghsuan/class_exercises/tree/master/HW5)（**作業五！！**）
+  * 我的BFS筆記：[我的BFS筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW5/README.md)
+  * 我的BFS學習歷程：[我的BFS學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
+  * 我的BFS程式碼：[我的BFS程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW5/BFS_06170203.py)
 * **Week13**：[DFS](https://github.com/chinghsuan/class_exercises/tree/master/HW5)（**作業五！！**）
+  * 我的DFS筆記：[我的DFS筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW5/README.md)
+  * 我的DFS學習歷程：[我的DFS學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
+  * 我的DFS程式碼：[我的DFS程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW5/BFS_06170203.py)
 * **Week14**：[MST](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
+  * 我的MST筆記：[我的MST筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW6/README.md)
+  * 我的MST學習歷程：[我的MST學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md)
+  * 我的MST程式碼：[我的MST程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW6/Dijkstra_06170203.py)
 * **Week15**：[Shortest Path](https://github.com/chinghsuan/class_exercises/tree/master/HW6)（**作業六！！**）
+  * 我的Shortest Path筆記：[我的Shortest Path筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW6/README.md)
+  * 我的Shortest Path學習歷程：[我的Shortest Path學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md)
+  * 我的Shortest Path程式碼：[我的Shortest Path程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW6/Dijkstra_06170203.py)
 * **Week16**：OverView
 * **Week17**：期末考週筆試
 * **Week18**：停課一次
