@@ -20,10 +20,10 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * [Part4修課心得](#Part4修課心得)
 
 ## Part1課堂筆記
-* **Week1**：課程介紹
+**Week1**：課程介紹
 > 準備進入資料結構與演算法課程！先了解怎麼寫Github的README語法
   * [Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
-* **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
+**Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
 > 第一個資料結構Linked List，學習基本的使用方法
   * 我的LinkedList筆記：[我的LinkedList筆記](https://github.com/chinghsuan/class_exercises/blob/master/week2/README.md)
   * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
