@@ -23,18 +23,19 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week1**：課程介紹
   * [Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
 * **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
-    * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
-    * 課堂練習題目：[Leetcode 707.Design Linked List（解法一）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%B8%80%EF%BC%89.py)
-    * 課堂練習題目：[Leetcode 707.Design Linked List（解法二）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%BA%8C%EF%BC%89.py)
+  *
+  * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
+  * 課堂練習題目：[Leetcode 707.Design Linked List（解法一）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%B8%80%EF%BC%89.py)
+  * 課堂練習題目：[Leetcode 707.Design Linked List（解法二）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%BA%8C%EF%BC%89.py)
 * **Week3**：[Stack & Queue](https://github.com/chinghsuan/class_exercises/tree/master/week3)
-    * 課堂練習題目：[155.Min_Stack](https://github.com/chinghsuan/class_exercises/blob/master/week3/155.%20Min%20Stack.py)
-    * 課堂練習題目：[232.Implement-Queue-Using-Stacks](https://github.com/chinghsuan/class_exercises/blob/master/week3/232.%20Implement%20Queue%20using%20Stacks.py)
+  * 課堂練習題目：[155.Min_Stack](https://github.com/chinghsuan/class_exercises/blob/master/week3/155.%20Min%20Stack.py)
+  * 課堂練習題目：[232.Implement-Queue-Using-Stacks](https://github.com/chinghsuan/class_exercises/blob/master/week3/232.%20Implement%20Queue%20using%20Stacks.py)
 * **Week4**：[Set](https://github.com/chinghsuan/class_exercises/tree/master/week4)、[Insertion Sort](https://github.com/chinghsuan/class_exercises/tree/master/week4)
-    * 課堂練習題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
-    * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
+  * 課堂練習題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
+  * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
 * **Week5**：國慶日放假一次
 * **Week6**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW1)（**作業一！！**）
-    * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
+  * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week7**：[Heap Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)、[Merge Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業二！！**）
 * **Week8**：Binary Tree
 * **Week9**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
