@@ -2,7 +2,7 @@
 
 ## Contents
 * [我的Hash Table程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW4/hash_table_06170203.py)
-* [我的學習歷程]https://github.com/chinghsuan/class_exercises/blob/master/HW4/hash_table_%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E8%88%87%E6%AD%B7%E7%A8%8B_06170203.ipynb)
+* [我的學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW4/hash_table_%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E%E8%88%87%E6%AD%B7%E7%A8%8B_06170203.ipynb)
 * [HashTable雜湊表](#HashTable雜湊表)
 * [HashFunction雜湊函數](#HashFunction雜湊函數)
 * [Reference](#Reference)
