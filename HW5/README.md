@@ -1,4 +1,4 @@
-# HW4 - BFS & DFS（作業五！！）
+# HW5 - BFS & DFS（作業五！！）
 
 ## Contents
 * [我的BFS&DFS程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW5/BFS_06170203.py)
