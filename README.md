@@ -23,19 +23,23 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
 * **Week1**：課程介紹
   * [Meet with GitHub](https://github.com/chinghsuan/class_exercises/tree/master/week1)（這裡放了我的Markdown語法筆記～）
 * **Week2**：[LinkedList](https://github.com/chinghsuan/class_exercises/blob/master/week2)
-  * [我的LinkedList筆記](https://github.com/chinghsuan/class_exercises/blob/master/week2/README.md)
+  * 我的LinkedList筆記：[我的LinkedList筆記](https://github.com/chinghsuan/class_exercises/blob/master/week2/README.md)
   * 課堂練習題目：[Leetcode 206. Reversed Linked List](https://github.com/chinghsuan/class_exercises/blob/master/week2/206.%20Reversed%20Linked%20List.py)
   * 課堂練習題目：[Leetcode 707.Design Linked List（解法一）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%B8%80%EF%BC%89.py)
   * 課堂練習題目：[Leetcode 707.Design Linked List（解法二）](https://github.com/chinghsuan/class_exercises/blob/master/week2/707.%20Design%20Linked%20List%EF%BC%88%E8%A7%A3%E6%B3%95%E4%BA%8C%EF%BC%89.py)
 * **Week3**：[Stack & Queue](https://github.com/chinghsuan/class_exercises/tree/master/week3)
-  * [我的Stack & Queue筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW3/README.md)
+  * 我的Stack & Queue筆記：[我的Stack & Queue筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW3/README.md)
   * 課堂練習題目：[155.Min_Stack](https://github.com/chinghsuan/class_exercises/blob/master/week3/155.%20Min%20Stack.py)
   * 課堂練習題目：[232.Implement-Queue-Using-Stacks](https://github.com/chinghsuan/class_exercises/blob/master/week3/232.%20Implement%20Queue%20using%20Stacks.py)
 * **Week4**：[Set](https://github.com/chinghsuan/class_exercises/tree/master/week4)、[Insertion Sort](https://github.com/chinghsuan/class_exercises/tree/master/week4)
+  * 我的Set & Insertion Sort筆記：[我的Set & Insertion Sort筆記](https://github.com/chinghsuan/class_exercises/blob/master/week4/README.md)
   * 課堂練習題目：[147.Insertion Sort List](https://github.com/chinghsuan/class_exercises/blob/master/week4/147.%20Insertion%20Sort%20List.py)
   * 課堂練習題目：[645.Set Mismatch](https://github.com/chinghsuan/class_exercises/blob/master/week4/645.%20Set%20Mismatch.py)
 * **Week5**：國慶日放假一次
 * **Week6**：[Quick Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW1)（**作業一！！**）
+  * 我的QuickSort筆記：[我的QuickSort筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW1/README.md)
+  * 我的QuickSort學習歷程：[我的QuickSort學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW1/Quick_Sort_%E5%A4%9A%E7%A8%AE%E8%A7%A3%E6%B3%95%E3%80%81%E7%AD%86%E8%A8%98%E8%88%87%E6%8F%8F%E8%BF%B0.ipynb)
+  * 我的QuickSort程式碼：[我的QuickSort程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW1/06170203_quicksort.py)
   * 課堂練習題目：[148.Sort_List](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode/148.%20Sort%20List.py)
 * **Week7**：[Heap Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)、[Merge Sort](https://github.com/chinghsuan/class_exercises/tree/master/HW2)（**作業二！！**）
 * **Week8**：Binary Tree
