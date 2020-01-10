@@ -63,6 +63,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
   * 我的Binary_Search_Tree學習歷程：[我的Binary_Search_Tree學習歷程](https://github.com/chinghsuan/class_exercises/blob/master/HW3/binary_search_tree_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81BST%E5%8E%9F%E7%90%86_06170203.ipynb)
 ### **Week10**：Red Black Tree
 > 學習紅黑樹的邏輯與基本使用方法
+  * 我的Red Black Tree筆記：[我的Red Black Tree筆記](https://github.com/chinghsuan/class_exercises/blob/master/week10/README.md)
 ### **Week11**：[Hash Table+MD5](https://github.com/chinghsuan/class_exercises/tree/master/HW4)（**作業四！！**）
 > 利用MD5加密，搭配Hash Table，學習各功能的使用方法
   * 我的Hash Table+MD5筆記：[我的Hash Table+MD5筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW4/README.md)
