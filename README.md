@@ -56,6 +56,7 @@ Hi~~ 我是劉謦瑄～ 這是我在資料結構與演算法課程的學習筆�
   * 我的Merge Sort程式碼：[我的Merge Sort程式碼](https://github.com/chinghsuan/class_exercises/blob/master/HW2/merge_sort_06170203.py)
 ### **Week8**：Binary Tree
 > 學習Binary Tree的結構與基本使用方法
+  * 我的Binary Tree筆記：[我的Binary Tree筆記](https://github.com/chinghsuan/class_exercises/tree/master/week8)
 ### **Week9**：[Binary_Search_Tree](https://github.com/chinghsuan/class_exercises/tree/master/HW3)（**作業三！！**）
 > 延伸week8的內容，應用於BST上，並完成作業三
   * 我的Binary_Search_Tree筆記：[我的Binary_Search_Tree筆記](https://github.com/chinghsuan/class_exercises/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
