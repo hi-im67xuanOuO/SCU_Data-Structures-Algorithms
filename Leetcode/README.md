@@ -8,5 +8,3 @@
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode%E8%87%AA%E6%88%91%E7%B7%B4%E7%BF%92/509.%20Fibonacci%20Number.py)|Easy|
 |771|[Jewels and Stones.py](https://leetcode.com/problems/jewels-and-stones)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode%E8%87%AA%E6%88%91%E7%B7%B4%E7%BF%92/771.%20Jewels%20and%20Stones.py)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match)|[Python](https://github.com/chinghsuan/class_exercises/blob/master/Leetcode%E8%87%AA%E6%88%91%E7%B7%B4%E7%BF%92/942.%20DI%20String%20Match.py)|Easy|
-
-### 學習歷程心得
