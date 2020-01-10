@@ -32,3 +32,33 @@ CodeSignal（以前稱為CodeFights）是由美國公司BrainFights，Inc.運營
 * {} 無類型碼：指定索引位置或關鍵字 (也可混合，但索引位置必須在前)。
 * {:} 可使用類型碼：: 左邊為索引位置或關鍵字。: 右邊可指定 %s、%d ... 類型碼，例如 {索引位置、關鍵字:%s}。
 * {} 內的其它符號：^ 置中、< 置左、> 置右。+ 在正數前顯示 + 符號；- 在負數前顯示 - 負號。使用連續兩個 {{ 或 }} 來顯示 { 或 }。
+### lambda函數
+我們可以創建匿名函數，稱為：lambda 函數。這段代碼顯示如何使用 lambda 函數：  
+```python
+f = lambda x : 2 * x
+print f(3)
+```
+### map函數
+映射的定義是 map（函數，可迭代）。它適用於一個函數可重複每一個項目。我們可以用 map()，以與列表中的lambda函數：  
+使用 lambda 函數任何地方，都可以使用正常的函數來代替。lambda 函數不是一個語句，它是一個表達式。lambda 函數不支持的語句塊。
+```python
+list = [1,2,3,4,5]
+squaredList = map(lambda x: x*x, list)
+print(squaredList)
+```
+### filter函數
+過濾器（函數，迭代器）創建一個新的列表的元素，函數返回True。示例：  
+返回的列表將返回僅包含其中lambda表達式的元素 “lamba x: x % 2 == 0”  的值為：true
+```python
+list = [1,2,3,4,5,6,7,8,9,10]
+newList = filter(lambda x: x % 2 == 0, list)
+print(newList)
+```
+### reduce 函數
+reduce(function, iterable) 適用於兩個參數累積到可迭代的項目，由左到右。示例：  
+在這種情況下，表達始終為：true，因此，它簡單地概括了列表的元素。
+```python
+list = [1,2,3,4,5]
+s = reduce(lambda x,y: x+y,  list)
+print(s)
+```
